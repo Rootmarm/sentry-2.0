@@ -1,0 +1,1941 @@
+Hit: http://zeke2020:megan1@members2.wifeysworld.com/    Proxy: 69.242.12.128:2301    Time: 4/18/2005 12:12:01 AM
+--------------------Start Header----------------------------
+GET http://members2.wifeysworld.com/ HTTP/1.0
+Accept: */*
+Referer: http://members2.wifeysworld.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE; rv:1.7.5) Gecko/20041122 Firefox/1.0
+Host: members2.wifeysworld.com
+Pragma: no-cache
+Authorization: Basic SlBURUFYWkg6QkRCRFlET1Y=
+
+
+HTTP/1.1 401 Authorization RequiredDate:  Mon, 18 Apr 2005 04:12:07 GMT
+Server:  Apache/1.3.33 (Unix) PHP/4.3.9 mod_perl/1.29
+WWW-Authenticate:  Basic realm="Wifeys World"
+Connection:  close
+Content-Type:  text/html; charset=iso-8859-1
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<title>Wifey's World - Members - Main</title>
+	<link rel="STYLESHEET" type="text/css" href="css/members.css">
+<script language="Javascript">
+function ru_popWindow( pageToLoad, winName, width, height, center) 
+{
+    xposition=0; yposition=0;
+    if ((parseInt(navigator.appVersion) >= 4 ) && (center)){
+        xposition = (screen.width - width) / 2;
+        yposition = (screen.height - height) / 2;
+    }
+    args = "width=" + width + "," 
+    + "height=" + height + "," 
+    + "location=0," 
+    + "menubar=0,"
+    + "resizable=0,"
+    + "scrollbars=1,"
+    + "status=0," 
+    + "titlebar=0,"
+    + "toolbar=0,"
+    + "hotkeys=0,"
+    + "screenx=" + xposition + ","  //NN Only
+    + "screeny=" + yposition + ","  //NN Only
+    + "left=" + xposition + ","     //IE Only
+    + "top=" + yposition;           //IE Only
+    window.open( pageToLoad,winName,args );
+}
+</script>
+</head>
+<body BGCOLOR="#FFFFFF" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT="0">
+<map name="redbar-nav-links">
+<area alt="" coords="180,5,278,23" href="classics/">
+<area alt="" coords="280,5,340,23" href="erotica/">
+<area alt="" coords="341,5,397,23" href="sounds/">
+<area alt="" coords="399,5,470,23" href="cartoons/">
+<area alt="" coords="471,5,520,23" href="chat/">
+</map>
+<map name="central-panel">
+<area alt="" coords="23,186,106,214" href="img_galleries/">
+<area alt="" coords="145,186,221,214" href="videos/">
+<area alt="" coords="274,186,325,214" href="wfw/">
+</map>
+<map name="bottom-links">
+<area alt="" coords="12,3,75,20" href="http://www2.wifeysworld.com/ourtale.php">
+<area alt="" coords="82,3,155,20" href="http://www2.wifeysworld.com/peephole.php">
+<area alt="" coords="156,3,220,20" href="http://www2.wifeysworld.com/tour1.php">
+<area alt="" coords="221,3,305,20" href="http://www2.wifeysworld.com/contact.php">
+<area alt="" coords="306,3,355,20" href="http://www2.wifeysworld.com/faq.php">
+</map>
+&nbsp;<BR>
+<DIV ALIGN="center">
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0">
+	<TR>
+		<TD HEIGHT="77" COLSPAN="3">
+		<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0">
+		<TR><TD><IMG SRC="shell_imgs/home/home_header-title.gif" WIDTH=529 HEIGHT=77 ALT="" BORDER="0"></TD><TD><IMG SRC="../shell_code/friends_top_banner/friends_banner_top.gif" WIDTH=169 HEIGHT=28 ALT="" BORDER="0"><BR><A HREF="http://thehouseoftemptations.com" target="new_friend1"><IMG SRC="../shell_code/friends_top_banner/friends_banner_LEFT.gif" WIDTH=88 HEIGHT=42 ALT="" BORDER="0"></A><A HREF="http://join.sammy4u.com/track/OTc5OjM6MQ/" target="new_friend2"><IMG SRC="../shell_code/friends_top_banner/friends_banner_RIGHT.gif" WIDTH=81 HEIGHT=42 ALT="" BORDER="0"></A><BR><IMG SRC="../shell_code/friends_top_banner/friends_banner_bottom.gif" WIDTH=169 HEIGHT=7 ALT="" BORDER="0"></TD>
+</TR>
+	</TR>
+	</TABLE>
+	</TR>
+	<TR>
+		<TD COLSPAN="3" HEIGHT="30">
+		<IMG SRC="shell_imgs/home/red_bar_nav-links.gif" WIDTH=698 HEIGHT=30 ALT="" BORDER="0" usemap="#redbar-nav-links"></TD>
+	</TR>
+	<TR>
+		<TD BGCOLOR="#CCCCCC" WIDTH="166" VALIGN="top"><IMG SRC="shell_imgs/home/home_left-col-header_featured-friends.gif" WIDTH=166 HEIGHT=53 ALT="" BORDER="0"><BR><a href="friends/"><IMG SRC="shell_imgs/home/left_column_panel_1.gif" WIDTH=166 HEIGHT=177 ALT="" BORDER="0"></a>
+		<DIV CLASS="left-col" ALIGN="center">
+<!-- ####################### START IMBEDDED VOTING TABLE ###################### -->
+<table border="0" cellpadding="3" cellspacing="0" width="100%">
+<tr><td>	<FONT face="arial,helvetica"  size="-1"><b>Guys, if you had one wish and had to choose one of the following, which would it be?</p>
+<!-- POLL START -->
+  <form action="/cgi-bin/poll.cgi" method="GET">
+    <input type="hidden" name="type" value="apr04">
+
+
+<input type="radio" name="vote" value="Big Dick">Big Dick<br>
+
+<input type="radio" name="vote" value="$1000000">$1000000<br>
+
+<input type="radio" name="vote" value="Dream Job">Dream Job<br>
+
+<input type="radio" name="vote" value="Shoot Giant Loads">Shoot Giant Loads<br>
+     
+<input type="radio" name="vote" value="Nail Your Dream Girl One Time">Nail Your Dream Girl One Time<br>
+
+    
+</FONT>
+	
+    <p><center><input type="submit" value="Vote Now!"></center></p>
+  </form>
+<!-- POLL END -->
+</td></tr>
+<tr><td align="center">
+<a href="javascript:ru_popWindow('../past_poll/','newWin',560,450,1)">Past Poll Results</a>
+</td></tr></table>
+<!-- ####################### END EMBEDDED VOTING TABLE ###################### -->
+		</DIV>
+		&nbsp;<P>
+</TD>
+		<TD ALIGN="center" VALIGN="top" WIDTH=368><IMG SRC="shell_imgs/home/central_nav-panel.gif" WIDTH=366 HEIGHT=231 ALT="" BORDER="0" USEMAP="#central-panel"><BR><a href="http://wifeystore.dhdmedia.com/browse.cfm"><IMG SRC="shell_imgs/home/bottom_panel_two-LEFT.gif" WIDTH=128 HEIGHT=116 ALT="" BORDER="0"><A HREF="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=918494-0003&PA=464348&HTML=http://www.slutauditions.com/" target="_blank"><IMG SRC="site_of_week/site_of_week_graphic.gif" WIDTH=117 HEIGHT=116 ALT="" BORDER="0"></A><A href="javascript:ru_popWindow('daily_comic/current_day_comic.php','newWin',550,650,1)"><IMG SRC="shell_imgs/home/bottom_panel_two-RIGHT.gif" WIDTH=123 HEIGHT=116 ALT="" BORDER="0"></A><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="367" height="117">
+        <param name="movie" value="memberflash.swf">
+        <param name="quality" value="high">
+        <embed src="memberflash.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="367" height="117"></embed></object>
+		</TD>
+		<TD BGCOLOR="#CCCCCC" WIDTH="166" VALIGN="top"><IMG SRC="shell_imgs/home/home_right-col-header_recent-updates.gif" WIDTH=166 HEIGHT=53 ALT="" BORDER="0">
+		<DIV class="recent-updates">		
+		
+<A href="/img_galleries/">Images-----Apr 17th</A><br>
+
+<A href="/videos/">Videos------Apr 17th</A><br>
+
+<A href="/wfw/">WFWifey----Apr 17th</A><br>
+
+<br><p>
+
+<A href="/classics/">Classics------Apr 14th</A><br>
+
+<A href="/friends/">Friends------Apr 13th</A><br>
+
+<A href="/spotlight/">Spotlight---Apr 11th</A><br>
+
+Wifey Poll--Apr 4th<br>
+
+<A href="/cartoons/">Cartoons-----Jun 5th</A><br>
+
+<A href="/erotica/">Erotica-------Oct 30th</A><br>
+
+<A href="/sounds/">Sounds------Jan 27th</A><br>
+		</DIV>
+		<BR>
+		<A HREF="spotlight/"><IMG SRC="shell_imgs/home/right_column_panel_SPOTLIGHT.gif" WIDTH=166 HEIGHT=105 ALT="" BORDER="0"></A>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN="3" ALIGN="center"><IMG SRC="shell_imgs/home/home_bottom-links.gif" WIDTH=366 HEIGHT=27 USEMAP="#bottom-links" BORDER="0"></TD>
+	</TR>
+</TABLE>
+&nbsp;<P>
+</DIV>
+&nbsp;<P>
+&nbsp;<P>
+&nbsp;<P>
+&nbsp;<P>
+<center>	<TR>
+To cancel your membership <a href="d_c_index.html" target="new_window">click here.</a></center>
+&nbsp;<P>
+&nbsp;<P>
+</body>
+</html>
+
+--------------------End Source------------------------------
+
+Hit: http://charlatan:cricket@www.shivaglamour.net/englishversion/?pid=13/    Proxy: 68.60.96.87:2301    Time: 4/19/2005 7:59:59 PM
+--------------------Start Header----------------------------
+POST http://www.shivaglamour.net/englishversion/?pid=13/ HTTP/1.1
+Accept: */*
+Referer: http://www.shivaglamour.net
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.3; Linux) (KHTML, like Gecko)
+Host: www.shivaglamour.net
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+Connection: keep-alive
+Content-Length: 122
+Cookie: PHPSESSID=b103789d0d205c1579dbce7ec50fd14a; path=/
+
+PHP_AUTH_USER=charlatan&PHP_AUTH_PW=cricket&PHPSESSID=b103789d0d205c1579dbce7ec50fd14a&login=Login&login=Login&login=Login
+
+HTTP/1.1 200 OKDate:  Wed, 20 Apr 2005 00:00:01 GMT
+Server:  Apache/1.3.33 (Unix) mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_ssl/2.8.22 OpenSSL/0.9.7a PHP-CGI/0.1b
+Cache-Control:  no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires:  Thu, 19 Nov 1981 08:52:00 GMT
+Pragma:  no-cache
+X-Powered-By:  PHP/4.3.10
+Connection:  close
+Content-Type:  text/html
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>SHIVAGLAMOUR - Sexy mature leg teaser from INDIA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href='/englishversion/design_2.css' rel='stylesheet' type='text/css'>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+$status_pos = 0;
+$status_text = '   . . . . . . . . . . . . . . . . . . . . . .   w w w . s h i v a g l a m o u r . n e t   . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';
+$max_char = $status_text.length;
+
+function write_status_text() {
+	
+	$new_text = $status_text.substr(0, $status_pos )+ '_' + $status_text.substr( $status_pos+1 );
+
+	parent.window.status = $new_text;
+
+	$status_pos = $status_pos + 2;
+	if ( $status_pos >= $max_char ) {
+		$status_pos = 0;
+	}
+	setTimeout( "write_status_text()", 60 );
+}
+
+//write_status_text();
+
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#660000" text="#54658C" link="#660000" vlink="#660000" alink="#FF0000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="956" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFD5DC">
+	<tr>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+		<td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td colspan="3" height="20"><img src="images/spacer.gif" height="20" border="0"></td>
+				</tr>
+				<tr>
+					<td width="286" align="right" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/englishversion/?lang=en" class="menu_link">Main</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=1" class="menu_link">About & News</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=20" class="menu_link">Free pics</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=2&item_id=21659" class="menu_link">Updates</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=3" class="menu_link">Videos</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=21" class="menu_link">Friends</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=6" class="menu_link">Join</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Last update: 2005-04-16</td>
+    </tr>  
+</table>	<div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Next update: 2005-04-23</td>
+    </tr>  
+</table>	</td>
+					<td width="380"><img src="images/intro_img.jpg" width="380" height="459" border="0"></td>
+					<td width="286" align="left" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=7" class="menu_link">Members</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=8" class="menu_link">Stories</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=9" class="menu_link">Links</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="mailto:ladyshiva@shivaglamour.net" class="menu_link">E-mail</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=11" class="menu_link">My banners</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.clips4sale.com/store.pl?1054" class="menu_link">PPV clips</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/toplist/index.html" class="menu_link">Top Sites</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">New pics: 176</td>
+    </tr>
+    
+</table>	<div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">Total pics: 19006</td>
+    </tr>
+    
+</table>	</td>
+				</tr>
+			</table>
+ <br>
+<p align="center"><b>
+
+<font face="Verdana"> <font size="6"><span style="background-color: #FF0033">Don't forget to visit my other sites</span></font></font></b></p>
+
+  <br>
+
+<table border="0">
+    <tr>
+        <td><a href="http://www.sexycrush.com/main1.html"><img
+        src="http://www.shivaglamour.net/banner/mycrushsite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.indiafemdom.com/main2.html"><img
+        src="http://www.shivaglamour.net/banner/mydommesite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.mycrushfetish.com/"><img
+        src="http://www.shivaglamour.net/banner/mycrushfetish.gif"
+        border="0" width="300" height="60"></a></td>
+    </tr>
+</table>
+ <br>
+  			<br>
+<table border="0" cellspacing="0" cellpadding="4" align="center">
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickafoot.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>FEET+feet+FEET</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabbw.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Big BEAUTIFUL Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickaasian.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Exotic ASIAN ladies</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>Sexy NYLONS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabutt.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Teasing ASS Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzabbws.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of BBWs!</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzalegs.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of LEGS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>More Fine Legs</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Stockings & NYLONS</a></td>
+	</tr>
+	<tr>
+		<td colspan="3" width="33.333333333333%" align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'>More FANTASTIC Nylons</a></td>
+	</tr>
+</table>
+<script>
+
+<!-- 
+	pickapicka=window.open('http://www.lotzalegs.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag', '_picka','resizable=no,scrollbars=yes,toolbar=no,location=no,directories=no,status=no,menubar=no');
+	pickapicka.blur(); 
+// --> 
+
+</script><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td width="33%" align="center"><a href='http://www.dawndesire.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/dawndesire.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylontops.com/cgi-bin/nylon-tops/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontops.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank2/rankem.cgi?id=shivag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.fat-tgp.com/cgi-bin/killah/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/KillahBBW.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/euronylons.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.stockings-world.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/stockingsworldtop100.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.legwomen.com/rank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/legwomentop50.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabesstamp.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/passionforlegs.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.ronisparadise.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/ronisparadise.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.mycrushfetish.com' target='_blank'><img src='/englishversion/mini_banners/mycrushfetishmini_anim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonfetishworld.com/toplist/in.php?site=1107367950' target='_blank'><img src='/englishversion/mini_banners/nylonfetishworld.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylontemptations.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontemptations.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhoseaddict.com/cgi-bin/AutoRank/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/pantyhoseaddict.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=427&id=27598' target='_blank'><img src='/englishversion/mini_banners/erdbeerfee.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonsgirls.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=LadyShiva' target='_blank'><img src='/englishversion/mini_banners/1_nylongirls.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.onlytease.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/onlytease.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksde.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://gmworld.janssen-s1.de/toplist/toplist.asp?action=in&user=849' target='_blank'><img src='/englishversion/mini_banners/gmstockingtop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexycrush.com/main1.html' target='_blank'><img src='/englishversion/mini_banners/sexycrushanim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.barefootbabes.com/cgi-bin/ar/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/barefootbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.foot-femdom.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/footfemdomsites.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.simplystockings.com/cgi-bin/autorank/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/simplystockings.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.kinkyvoluptuous.com/incoming.asp?id=51' target='_blank'><img src='/englishversion/mini_banners/5_kinkyvoluptuous.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.godfatherfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/godfather.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.gates-of-eva.com/links/toplink/in.php3?site=1071575528' target='_blank'><img src='/englishversion/mini_banners/4_gatesofevabanner09.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.dark-fashions.net/ff-top50/rankem.php?action=in&id=FF2018' target='_blank'><img src='/englishversion/mini_banners/darkfashions.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonfeetworld.com/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsfeetworld.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bestnylonsites.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bestnylon1banner_mini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.by-nightlife.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nightlife.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.my-heels.net/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/myheels.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sheernsexy.com/autorank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sheernsexy.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonsue.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsue.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.bbwfetishes.net/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwfetishesmini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=18354&id=149795' target='_blank'><img src='/englishversion/mini_banners/feetfindertoplistenbanner.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.golden-pantyhose.com/cgi-bin/megatopliste-nylon/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/goldenpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.indiafemdom.com' target='_blank'><img src='/englishversion/mini_banners/IndiaFemDom.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=14452&id=134690' target='_blank'><img src='/englishversion/mini_banners/candidfeet.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bbwpantyhose.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aliessa.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/6_alluringaliessabanner.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksbutton.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.hips2toes.hotwebamateurs.com/cgi-bin/top100/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hips2toes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.sexymodelsuk.com/cgi-bin/toprank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexymodelsuk.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.websitetoolbox.net/cgi/view/topsites.cgi?topsite=caly&ID=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hotlegs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=20&id=29559' target='_blank'><img src='/englishversion/mini_banners/eurotop69.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.900.ee/cgi-bin/top/topsites.cgi?bibi5lag' target='_blank'><img src='/englishversion/mini_banners/estoniantop.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylons100.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonstop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=19&id=20562' target='_blank'><img src='/englishversion/mini_banners/sexoaselinks.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.wwamateurs.com' target='_blank'><img src='/englishversion/mini_banners/wwamateurs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.69denier.com' target='_blank'><img src='/englishversion/mini_banners/69denier.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.fannysnet.com/main5.html' target='_blank'><img src='/englishversion/mini_banners/7_fannyban60h.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aragornsfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/aragorn.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bigbutt-amateurs.com' target='_blank'><img src='/englishversion/mini_banners/bigbuttamateursTGP.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhosemama.com' target='_blank'><img src='/englishversion/mini_banners/pantyhosemamamini.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.thefetishgalleries.com' target='_blank'><img src='/englishversion/mini_banners/drwatsons.gif' border=0></a></td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td colspan="2" align="center"><a href='http://www.wildblondeflower.com' target='_blank'><img src='/englishversion/stamps/wildblondeflowerthumb.gif' border=0></a></td>
+		<td align="center"><a href='http://certifiedasian.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedasian_thumb.jpg' border=0></a></td>
+		<td align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedlegs_sealstill.gif' border=0></a></td>
+		<td align="center"><a href='http://www.jackoffmaterial.com' target='_blank'><img src='/englishversion/stamps/jom_seal.gif' border=0></a></td>
+		<td align="center"><a href='http://usa.ultimatetopsites.com/bin/topsite.cgi?pinupglamour&cat=general&ID=10' target='_blank'><img src='/englishversion/stamps/klassytopsite.gif' border=0></a></td>
+		<td align="center"><a href='http://www.feet4all.com/cgi-bin/feet4all/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/stamps/feet4all.gif' border=0></a></td>
+		<td align="center"><a href='http://www.glamour-lady.com/topsites/in.php?site=1053191774' target='_blank'><img src='/englishversion/stamps/glamourlady.gif' border=0></a></td>
+		<td align="center"><a href='http://groups.yahoo.com/group/teasingshiva/' target='_blank'><img src='/englishversion/stamps/yahoojoin.gif' border=0></a></td>
+	</tr>
+</table>
+</td>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+	</tr>
+</table>
+</body>
+</html>
+--------------------End Source------------------------------
+
+Hit: http://doug20042345:hunter@www.shivaglamour.net/englishversion/?pid=13/    Proxy: 208.63.116.194:8080    Time: 4/19/2005 7:59:59 PM
+--------------------Start Header----------------------------
+POST http://www.shivaglamour.net/englishversion/?pid=13/ HTTP/1.1
+Accept: */*
+Referer: http://www.shivaglamour.net
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Host: www.shivaglamour.net
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+Connection: keep-alive
+Content-Length: 136
+Cookie: PHPSESSID=be54a2278e414e89a8a30b59ebe4dcff; path=/
+
+PHP_AUTH_USER=doug20042345&PHP_AUTH_PW=hunter&PHPSESSID=be54a2278e414e89a8a30b59ebe4dcff&login=Login&login=Login&login=Login&login=Login
+
+HTTP/1.0 200 OK
+Content-type: text/html
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+<html>
+<head>
+<title>DansGuardian - Access Denied</title>
+</head>
+<body bgcolor=#FFFFFF>
+<center>
+<table border=0 cellspacing=0 cellpadding=2 height=540 width=700>
+<tr>
+	<td colspan=2 bgcolor=#FEA700 height=100 align=center>
+	<font face=arial,helvetica size=6>
+	<b>Access has been Denied!</b>
+	</td>
+</tr>
+<tr>
+	<td colspan=2 bgcolor=#FFFACD height=30 align=right>
+	<font face=arial,helvetica size=3 color=black>
+	<b>-&nbsp;</b>
+	</td>
+</tr>
+<tr>
+	<td align=center valign=bottom width=150 bgcolor=#B0C4DE>
+	<font face=arial,helvetica size=1 color=black>
+	YOUR ORG NAME
+	</td>
+	<td width=550 bgcolor=#FFFFFF align=center valign=center>
+	<font face=arial,helvetica color=black>
+	<font size=4>
+	Access to the page:
+	<br><br>
+	<a href="http://www.shivaglamour.net/englishversion/?pid=13/" target="_blank">http://www.shivaglamour.net/englishversion/?pid=13/</a>
+	<br><br>
+	<font size=3>
+	... has been denied for the following reason:
+	<br><br>
+	<font color=red>
+	<b>Weighted phrase limit exceeded.</b>
+	<font color=black>
+	<br><br><br><br>
+	You are seeing this error because what you attempted to access appears to contain,
+	or is labeled as containing, material that has been deemed inappropriate.
+	<br><br>
+	If you have any queries contact your ICT Co-ordinator or Network Manager.
+	<br><br><br><br>
+	<font size=1>
+	Powered by <a href="http://www.dansguardian.org" target="_blank">DansGuardian</a>
+	</td>
+</tr>
+</table>
+</body>
+</html>
+<!--
+The available variables are as follows:- URL- gives the URL the user was trying to get to.- REASONGIVEN- gives the nice reason (i.e. not quoting the banned phrase).- REASONLOGGED- gives the reason that gets logged including full details.- USER- gives the username if known.- IP- gives the originating IP.- FILTERGROUP- gives the group number.- BYPASS- gives URL which allows temporary bypass of denied page
+You need to remove the space between the - and the variable to use them
+in your HTML.  They are there above so extra processing is not required.
+More example templates are likely to be found on the DansGuardian web site
+on the Extras page.
+This page was designed by Paul Richards.  (http://www.ridney.com/)
+Daniel Barron 2003-09-01--!>
+
+--------------------End Source------------------------------
+
+Hit: http://tram972:6821263@www.shivaglamour.net/englishversion/?pid=13/    Proxy: 68.52.155.221:2301    Time: 4/19/2005 8:00:10 PM
+--------------------Start Header----------------------------
+POST http://www.shivaglamour.net/englishversion/?pid=13/ HTTP/1.1
+Accept: */*
+Referer: http://www.shivaglamour.net
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Host: www.shivaglamour.net
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+Connection: keep-alive
+Content-Length: 120
+Cookie: PHPSESSID=75ca21588c0b2acc829dfe232a141fb5; path=/
+
+PHP_AUTH_USER=tram972&PHP_AUTH_PW=6821263&PHPSESSID=75ca21588c0b2acc829dfe232a141fb5&login=Login&login=Login&login=Login
+
+HTTP/1.1 200 OKDate:  Wed, 20 Apr 2005 00:00:12 GMT
+Server:  Apache/1.3.33 (Unix) mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_ssl/2.8.22 OpenSSL/0.9.7a PHP-CGI/0.1b
+Cache-Control:  no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires:  Thu, 19 Nov 1981 08:52:00 GMT
+Pragma:  no-cache
+X-Powered-By:  PHP/4.3.10
+Connection:  close
+Content-Type:  text/html
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>SHIVAGLAMOUR - Sexy mature leg teaser from INDIA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href='/englishversion/design_2.css' rel='stylesheet' type='text/css'>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+$status_pos = 0;
+$status_text = '   . . . . . . . . . . . . . . . . . . . . . .   w w w . s h i v a g l a m o u r . n e t   . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';
+$max_char = $status_text.length;
+
+function write_status_text() {
+	
+	$new_text = $status_text.substr(0, $status_pos )+ '_' + $status_text.substr( $status_pos+1 );
+
+	parent.window.status = $new_text;
+
+	$status_pos = $status_pos + 2;
+	if ( $status_pos >= $max_char ) {
+		$status_pos = 0;
+	}
+	setTimeout( "write_status_text()", 60 );
+}
+
+//write_status_text();
+
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#660000" text="#54658C" link="#660000" vlink="#660000" alink="#FF0000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="956" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFD5DC">
+	<tr>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+		<td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td colspan="3" height="20"><img src="images/spacer.gif" height="20" border="0"></td>
+				</tr>
+				<tr>
+					<td width="286" align="right" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/englishversion/?lang=en" class="menu_link">Main</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=1" class="menu_link">About & News</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=20" class="menu_link">Free pics</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=2&item_id=21659" class="menu_link">Updates</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=3" class="menu_link">Videos</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=21" class="menu_link">Friends</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=6" class="menu_link">Join</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Last update: 2005-04-16</td>
+    </tr>  
+</table>	<div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Next update: 2005-04-23</td>
+    </tr>  
+</table>	</td>
+					<td width="380"><img src="images/intro_img.jpg" width="380" height="459" border="0"></td>
+					<td width="286" align="left" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=7" class="menu_link">Members</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=8" class="menu_link">Stories</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=9" class="menu_link">Links</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="mailto:ladyshiva@shivaglamour.net" class="menu_link">E-mail</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=11" class="menu_link">My banners</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.clips4sale.com/store.pl?1054" class="menu_link">PPV clips</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/toplist/index.html" class="menu_link">Top Sites</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">New pics: 176</td>
+    </tr>
+    
+</table>	<div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">Total pics: 19006</td>
+    </tr>
+    
+</table>	</td>
+				</tr>
+			</table>
+ <br>
+<p align="center"><b>
+
+<font face="Verdana"> <font size="6"><span style="background-color: #FF0033">Don't forget to visit my other sites</span></font></font></b></p>
+
+  <br>
+
+<table border="0">
+    <tr>
+        <td><a href="http://www.sexycrush.com/main1.html"><img
+        src="http://www.shivaglamour.net/banner/mycrushsite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.indiafemdom.com/main2.html"><img
+        src="http://www.shivaglamour.net/banner/mydommesite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.mycrushfetish.com/"><img
+        src="http://www.shivaglamour.net/banner/mycrushfetish.gif"
+        border="0" width="300" height="60"></a></td>
+    </tr>
+</table>
+ <br>
+  			<br>
+<table border="0" cellspacing="0" cellpadding="4" align="center">
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickafoot.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>FEET+feet+FEET</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabbw.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Big BEAUTIFUL Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickaasian.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Exotic ASIAN ladies</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>Sexy NYLONS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabutt.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Teasing ASS Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzabbws.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of BBWs!</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzalegs.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of LEGS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>More Fine Legs</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Stockings & NYLONS</a></td>
+	</tr>
+	<tr>
+		<td colspan="3" width="33.333333333333%" align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'>More FANTASTIC Nylons</a></td>
+	</tr>
+</table>
+<script>
+
+<!-- 
+	pickapicka=window.open('http://www.lotzalegs.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag', '_picka','resizable=no,scrollbars=yes,toolbar=no,location=no,directories=no,status=no,menubar=no');
+	pickapicka.blur(); 
+// --> 
+
+</script><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td width="33%" align="center"><a href='http://www.dawndesire.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/dawndesire.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylontops.com/cgi-bin/nylon-tops/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontops.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank2/rankem.cgi?id=shivag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.fat-tgp.com/cgi-bin/killah/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/KillahBBW.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/euronylons.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.stockings-world.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/stockingsworldtop100.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.legwomen.com/rank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/legwomentop50.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabesstamp.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/passionforlegs.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.ronisparadise.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/ronisparadise.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.mycrushfetish.com' target='_blank'><img src='/englishversion/mini_banners/mycrushfetishmini_anim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonfetishworld.com/toplist/in.php?site=1107367950' target='_blank'><img src='/englishversion/mini_banners/nylonfetishworld.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylontemptations.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontemptations.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhoseaddict.com/cgi-bin/AutoRank/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/pantyhoseaddict.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=427&id=27598' target='_blank'><img src='/englishversion/mini_banners/erdbeerfee.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonsgirls.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=LadyShiva' target='_blank'><img src='/englishversion/mini_banners/1_nylongirls.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.onlytease.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/onlytease.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksde.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://gmworld.janssen-s1.de/toplist/toplist.asp?action=in&user=849' target='_blank'><img src='/englishversion/mini_banners/gmstockingtop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexycrush.com/main1.html' target='_blank'><img src='/englishversion/mini_banners/sexycrushanim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.barefootbabes.com/cgi-bin/ar/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/barefootbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.foot-femdom.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/footfemdomsites.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.simplystockings.com/cgi-bin/autorank/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/simplystockings.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.kinkyvoluptuous.com/incoming.asp?id=51' target='_blank'><img src='/englishversion/mini_banners/5_kinkyvoluptuous.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.godfatherfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/godfather.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.gates-of-eva.com/links/toplink/in.php3?site=1071575528' target='_blank'><img src='/englishversion/mini_banners/4_gatesofevabanner09.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.dark-fashions.net/ff-top50/rankem.php?action=in&id=FF2018' target='_blank'><img src='/englishversion/mini_banners/darkfashions.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonfeetworld.com/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsfeetworld.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bestnylonsites.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bestnylon1banner_mini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.by-nightlife.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nightlife.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.my-heels.net/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/myheels.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sheernsexy.com/autorank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sheernsexy.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonsue.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsue.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.bbwfetishes.net/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwfetishesmini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=18354&id=149795' target='_blank'><img src='/englishversion/mini_banners/feetfindertoplistenbanner.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.golden-pantyhose.com/cgi-bin/megatopliste-nylon/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/goldenpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.indiafemdom.com' target='_blank'><img src='/englishversion/mini_banners/IndiaFemDom.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=14452&id=134690' target='_blank'><img src='/englishversion/mini_banners/candidfeet.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bbwpantyhose.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aliessa.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/6_alluringaliessabanner.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksbutton.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.hips2toes.hotwebamateurs.com/cgi-bin/top100/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hips2toes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.sexymodelsuk.com/cgi-bin/toprank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexymodelsuk.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.websitetoolbox.net/cgi/view/topsites.cgi?topsite=caly&ID=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hotlegs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=20&id=29559' target='_blank'><img src='/englishversion/mini_banners/eurotop69.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.900.ee/cgi-bin/top/topsites.cgi?bibi5lag' target='_blank'><img src='/englishversion/mini_banners/estoniantop.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylons100.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonstop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=19&id=20562' target='_blank'><img src='/englishversion/mini_banners/sexoaselinks.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.wwamateurs.com' target='_blank'><img src='/englishversion/mini_banners/wwamateurs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.69denier.com' target='_blank'><img src='/englishversion/mini_banners/69denier.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.fannysnet.com/main5.html' target='_blank'><img src='/englishversion/mini_banners/7_fannyban60h.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aragornsfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/aragorn.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bigbutt-amateurs.com' target='_blank'><img src='/englishversion/mini_banners/bigbuttamateursTGP.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhosemama.com' target='_blank'><img src='/englishversion/mini_banners/pantyhosemamamini.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.thefetishgalleries.com' target='_blank'><img src='/englishversion/mini_banners/drwatsons.gif' border=0></a></td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td colspan="2" align="center"><a href='http://www.wildblondeflower.com' target='_blank'><img src='/englishversion/stamps/wildblondeflowerthumb.gif' border=0></a></td>
+		<td align="center"><a href='http://certifiedasian.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedasian_thumb.jpg' border=0></a></td>
+		<td align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedlegs_sealstill.gif' border=0></a></td>
+		<td align="center"><a href='http://www.jackoffmaterial.com' target='_blank'><img src='/englishversion/stamps/jom_seal.gif' border=0></a></td>
+		<td align="center"><a href='http://usa.ultimatetopsites.com/bin/topsite.cgi?pinupglamour&cat=general&ID=10' target='_blank'><img src='/englishversion/stamps/klassytopsite.gif' border=0></a></td>
+		<td align="center"><a href='http://www.feet4all.com/cgi-bin/feet4all/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/stamps/feet4all.gif' border=0></a></td>
+		<td align="center"><a href='http://www.glamour-lady.com/topsites/in.php?site=1053191774' target='_blank'><img src='/englishversion/stamps/glamourlady.gif' border=0></a></td>
+		<td align="center"><a href='http://groups.yahoo.com/group/teasingshiva/' target='_blank'><img src='/englishversion/stamps/yahoojoin.gif' border=0></a></td>
+	</tr>
+</table>
+</td>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+	</tr>
+</table>
+</body>
+</html>
+--------------------End Source------------------------------
+
+Hit: http://Willy9745:Irisita@www.shivaglamour.net/englishversion/?pid=13/    Proxy: 166.114.30.40:8080    Time: 4/19/2005 8:00:13 PM
+--------------------Start Header----------------------------
+POST http://www.shivaglamour.net/englishversion/?pid=13/ HTTP/1.1
+Accept: */*
+Referer: http://www.shivaglamour.net
+User-Agent: Avant Browser (http://www.avantbrowser.com)
+Host: www.shivaglamour.net
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+Connection: keep-alive
+Content-Length: 134
+Cookie: PHPSESSID=c3c819c98e932be3905f747dd4c32c98; path=/
+
+PHP_AUTH_USER=Willy9745&PHP_AUTH_PW=Irisita&PHPSESSID=c3c819c98e932be3905f747dd4c32c98&login=Login&login=Login&login=Login&login=Login
+
+HTTP/1.1 200 OK
+Date: Wed, 20 Apr 2005 00:00:13 GMT
+Server: Apache/1.3.33 (Unix) mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_ssl/2.8.22 OpenSSL/0.9.7a PHP-CGI/0.1b
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+X-Powered-By: PHP/4.3.10
+Connection: close
+Content-Type: text/html
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>SHIVAGLAMOUR - Sexy mature leg teaser from INDIA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href='/englishversion/design_2.css' rel='stylesheet' type='text/css'>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+$status_pos = 0;
+$status_text = '   . . . . . . . . . . . . . . . . . . . . . .   w w w . s h i v a g l a m o u r . n e t   . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';
+$max_char = $status_text.length;
+
+function write_status_text() {
+	
+	$new_text = $status_text.substr(0, $status_pos )+ '_' + $status_text.substr( $status_pos+1 );
+
+	parent.window.status = $new_text;
+
+	$status_pos = $status_pos + 2;
+	if ( $status_pos >= $max_char ) {
+		$status_pos = 0;
+	}
+	setTimeout( "write_status_text()", 60 );
+}
+
+//write_status_text();
+
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#660000" text="#54658C" link="#660000" vlink="#660000" alink="#FF0000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="956" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFD5DC">
+	<tr>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+		<td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding=
+--------------------End Source------------------------------
+
+Hit: http://Willy9745:Irisita@www.shivaglamour.net/englishversion/?pid=13/    Proxy: 68.60.96.87:2301    Time: 4/19/2005 8:24:49 PM
+--------------------Start Header----------------------------
+POST http://www.shivaglamour.net/englishversion/?pid=13/ HTTP/1.1
+Accept: */*
+Referer: http://www.shivaglamour.net
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Host: www.shivaglamour.net
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+Connection: keep-alive
+Content-Length: 98
+Cookie: PHPSESSID=07f46602397e061a3f362522b8a2de97; path=/
+
+PHP_AUTH_USER=Willy9745&PHP_AUTH_PW=Irisita&PHPSESSID=07f46602397e061a3f362522b8a2de97&login=Login
+
+HTTP/1.1 200 OKDate:  Wed, 20 Apr 2005 00:24:52 GMT
+Server:  Apache/1.3.33 (Unix) mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_ssl/2.8.22 OpenSSL/0.9.7a PHP-CGI/0.1b
+Cache-Control:  no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires:  Thu, 19 Nov 1981 08:52:00 GMT
+Pragma:  no-cache
+X-Powered-By:  PHP/4.3.10
+Connection:  close
+Content-Type:  text/html
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>SHIVAGLAMOUR - Sexy mature leg teaser from INDIA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href='/englishversion/design_2.css' rel='stylesheet' type='text/css'>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+$status_pos = 0;
+$status_text = '   . . . . . . . . . . . . . . . . . . . . . .   w w w . s h i v a g l a m o u r . n e t   . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';
+$max_char = $status_text.length;
+
+function write_status_text() {
+	
+	$new_text = $status_text.substr(0, $status_pos )+ '_' + $status_text.substr( $status_pos+1 );
+
+	parent.window.status = $new_text;
+
+	$status_pos = $status_pos + 2;
+	if ( $status_pos >= $max_char ) {
+		$status_pos = 0;
+	}
+	setTimeout( "write_status_text()", 60 );
+}
+
+//write_status_text();
+
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#660000" text="#54658C" link="#660000" vlink="#660000" alink="#FF0000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="956" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFD5DC">
+	<tr>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+		<td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td colspan="3" height="20"><img src="images/spacer.gif" height="20" border="0"></td>
+				</tr>
+				<tr>
+					<td width="286" align="right" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/englishversion/?lang=en" class="menu_link">Main</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=1" class="menu_link">About & News</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=20" class="menu_link">Free pics</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=2&item_id=21659" class="menu_link">Updates</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=3" class="menu_link">Videos</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=21" class="menu_link">Friends</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=6" class="menu_link">Join</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Last update: 2005-04-16</td>
+    </tr>  
+</table>	<div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Next update: 2005-04-23</td>
+    </tr>  
+</table>	</td>
+					<td width="380"><img src="images/intro_img.jpg" width="380" height="459" border="0"></td>
+					<td width="286" align="left" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=7" class="menu_link">Members</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=8" class="menu_link">Stories</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=9" class="menu_link">Links</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="mailto:ladyshiva@shivaglamour.net" class="menu_link">E-mail</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=11" class="menu_link">My banners</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.clips4sale.com/store.pl?1054" class="menu_link">PPV clips</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/toplist/index.html" class="menu_link">Top Sites</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">New pics: 176</td>
+    </tr>
+    
+</table>	<div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">Total pics: 19006</td>
+    </tr>
+    
+</table>	</td>
+				</tr>
+			</table>
+ <br>
+<p align="center"><b>
+
+<font face="Verdana"> <font size="6"><span style="background-color: #FF0033">Don't forget to visit my other sites</span></font></font></b></p>
+
+  <br>
+
+<table border="0">
+    <tr>
+        <td><a href="http://www.sexycrush.com/main1.html"><img
+        src="http://www.shivaglamour.net/banner/mycrushsite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.indiafemdom.com/main2.html"><img
+        src="http://www.shivaglamour.net/banner/mydommesite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.mycrushfetish.com/"><img
+        src="http://www.shivaglamour.net/banner/mycrushfetish.gif"
+        border="0" width="300" height="60"></a></td>
+    </tr>
+</table>
+ <br>
+  			<br>
+<table border="0" cellspacing="0" cellpadding="4" align="center">
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickafoot.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>FEET+feet+FEET</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabbw.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Big BEAUTIFUL Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickaasian.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Exotic ASIAN ladies</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>Sexy NYLONS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabutt.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Teasing ASS Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzabbws.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of BBWs!</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzalegs.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of LEGS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>More Fine Legs</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Stockings & NYLONS</a></td>
+	</tr>
+	<tr>
+		<td colspan="3" width="33.333333333333%" align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'>More FANTASTIC Nylons</a></td>
+	</tr>
+</table>
+<script>
+
+<!-- 
+	pickapicka=window.open('http://www.lotzabbws.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag', '_picka','resizable=no,scrollbars=yes,toolbar=no,location=no,directories=no,status=no,menubar=no');
+	pickapicka.blur(); 
+// --> 
+
+</script><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td width="33%" align="center"><a href='http://www.dawndesire.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/dawndesire.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylontops.com/cgi-bin/nylon-tops/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontops.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank2/rankem.cgi?id=shivag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.fat-tgp.com/cgi-bin/killah/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/KillahBBW.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/euronylons.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.stockings-world.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/stockingsworldtop100.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.legwomen.com/rank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/legwomentop50.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabesstamp.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/passionforlegs.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.ronisparadise.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/ronisparadise.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.mycrushfetish.com' target='_blank'><img src='/englishversion/mini_banners/mycrushfetishmini_anim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonfetishworld.com/toplist/in.php?site=1107367950' target='_blank'><img src='/englishversion/mini_banners/nylonfetishworld.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylontemptations.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontemptations.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhoseaddict.com/cgi-bin/AutoRank/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/pantyhoseaddict.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=427&id=27598' target='_blank'><img src='/englishversion/mini_banners/erdbeerfee.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonsgirls.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=LadyShiva' target='_blank'><img src='/englishversion/mini_banners/1_nylongirls.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.onlytease.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/onlytease.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksde.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://gmworld.janssen-s1.de/toplist/toplist.asp?action=in&user=849' target='_blank'><img src='/englishversion/mini_banners/gmstockingtop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexycrush.com/main1.html' target='_blank'><img src='/englishversion/mini_banners/sexycrushanim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.barefootbabes.com/cgi-bin/ar/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/barefootbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.foot-femdom.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/footfemdomsites.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.simplystockings.com/cgi-bin/autorank/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/simplystockings.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.kinkyvoluptuous.com/incoming.asp?id=51' target='_blank'><img src='/englishversion/mini_banners/5_kinkyvoluptuous.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.godfatherfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/godfather.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.gates-of-eva.com/links/toplink/in.php3?site=1071575528' target='_blank'><img src='/englishversion/mini_banners/4_gatesofevabanner09.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.dark-fashions.net/ff-top50/rankem.php?action=in&id=FF2018' target='_blank'><img src='/englishversion/mini_banners/darkfashions.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonfeetworld.com/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsfeetworld.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bestnylonsites.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bestnylon1banner_mini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.by-nightlife.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nightlife.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.my-heels.net/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/myheels.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sheernsexy.com/autorank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sheernsexy.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonsue.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsue.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.bbwfetishes.net/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwfetishesmini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=18354&id=149795' target='_blank'><img src='/englishversion/mini_banners/feetfindertoplistenbanner.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.golden-pantyhose.com/cgi-bin/megatopliste-nylon/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/goldenpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.indiafemdom.com' target='_blank'><img src='/englishversion/mini_banners/IndiaFemDom.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=14452&id=134690' target='_blank'><img src='/englishversion/mini_banners/candidfeet.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bbwpantyhose.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aliessa.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/6_alluringaliessabanner.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksbutton.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.hips2toes.hotwebamateurs.com/cgi-bin/top100/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hips2toes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.sexymodelsuk.com/cgi-bin/toprank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexymodelsuk.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.websitetoolbox.net/cgi/view/topsites.cgi?topsite=caly&ID=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hotlegs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=20&id=29559' target='_blank'><img src='/englishversion/mini_banners/eurotop69.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.900.ee/cgi-bin/top/topsites.cgi?bibi5lag' target='_blank'><img src='/englishversion/mini_banners/estoniantop.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylons100.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonstop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=19&id=20562' target='_blank'><img src='/englishversion/mini_banners/sexoaselinks.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.wwamateurs.com' target='_blank'><img src='/englishversion/mini_banners/wwamateurs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.69denier.com' target='_blank'><img src='/englishversion/mini_banners/69denier.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.fannysnet.com/main5.html' target='_blank'><img src='/englishversion/mini_banners/7_fannyban60h.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aragornsfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/aragorn.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bigbutt-amateurs.com' target='_blank'><img src='/englishversion/mini_banners/bigbuttamateursTGP.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhosemama.com' target='_blank'><img src='/englishversion/mini_banners/pantyhosemamamini.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.thefetishgalleries.com' target='_blank'><img src='/englishversion/mini_banners/drwatsons.gif' border=0></a></td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td colspan="2" align="center"><a href='http://www.wildblondeflower.com' target='_blank'><img src='/englishversion/stamps/wildblondeflowerthumb.gif' border=0></a></td>
+		<td align="center"><a href='http://certifiedasian.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedasian_thumb.jpg' border=0></a></td>
+		<td align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedlegs_sealstill.gif' border=0></a></td>
+		<td align="center"><a href='http://www.jackoffmaterial.com' target='_blank'><img src='/englishversion/stamps/jom_seal.gif' border=0></a></td>
+		<td align="center"><a href='http://usa.ultimatetopsites.com/bin/topsite.cgi?pinupglamour&cat=general&ID=10' target='_blank'><img src='/englishversion/stamps/klassytopsite.gif' border=0></a></td>
+		<td align="center"><a href='http://www.feet4all.com/cgi-bin/feet4all/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/stamps/feet4all.gif' border=0></a></td>
+		<td align="center"><a href='http://www.glamour-lady.com/topsites/in.php?site=1053191774' target='_blank'><img src='/englishversion/stamps/glamourlady.gif' border=0></a></td>
+		<td align="center"><a href='http://groups.yahoo.com/group/teasingshiva/' target='_blank'><img src='/englishversion/stamps/yahoojoin.gif' border=0></a></td>
+	</tr>
+</table>
+</td>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+	</tr>
+</table>
+</body>
+</html>
+--------------------End Source------------------------------
+
+Hit: http://doug20042345:hunter@www.shivaglamour.net/englishversion/?pid=13/    Proxy: 68.52.155.221:2301    Time: 4/19/2005 8:24:53 PM
+--------------------Start Header----------------------------
+POST http://www.shivaglamour.net/englishversion/?pid=13/ HTTP/1.1
+Accept: */*
+Referer: http://www.shivaglamour.net
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Host: www.shivaglamour.net
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+Connection: keep-alive
+Content-Length: 136
+Cookie: PHPSESSID=7452ffa9bf375c1dab23d8078999148a; path=/
+
+PHP_AUTH_USER=doug20042345&PHP_AUTH_PW=hunter&PHPSESSID=7452ffa9bf375c1dab23d8078999148a&login=Login&login=Login&login=Login&login=Login
+
+HTTP/1.1 200 OKDate:  Wed, 20 Apr 2005 00:24:55 GMT
+Server:  Apache/1.3.33 (Unix) mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_ssl/2.8.22 OpenSSL/0.9.7a PHP-CGI/0.1b
+Cache-Control:  no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires:  Thu, 19 Nov 1981 08:52:00 GMT
+Pragma:  no-cache
+X-Powered-By:  PHP/4.3.10
+Connection:  close
+Content-Type:  text/html
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>SHIVAGLAMOUR - Sexy mature leg teaser from INDIA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href='/englishversion/design_2.css' rel='stylesheet' type='text/css'>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+$status_pos = 0;
+$status_text = '   . . . . . . . . . . . . . . . . . . . . . .   w w w . s h i v a g l a m o u r . n e t   . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';
+$max_char = $status_text.length;
+
+function write_status_text() {
+	
+	$new_text = $status_text.substr(0, $status_pos )+ '_' + $status_text.substr( $status_pos+1 );
+
+	parent.window.status = $new_text;
+
+	$status_pos = $status_pos + 2;
+	if ( $status_pos >= $max_char ) {
+		$status_pos = 0;
+	}
+	setTimeout( "write_status_text()", 60 );
+}
+
+//write_status_text();
+
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#660000" text="#54658C" link="#660000" vlink="#660000" alink="#FF0000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="956" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFD5DC">
+	<tr>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+		<td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td colspan="3" height="20"><img src="images/spacer.gif" height="20" border="0"></td>
+				</tr>
+				<tr>
+					<td width="286" align="right" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/englishversion/?lang=en" class="menu_link">Main</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=1" class="menu_link">About & News</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=20" class="menu_link">Free pics</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=2&item_id=21659" class="menu_link">Updates</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=3" class="menu_link">Videos</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=21" class="menu_link">Friends</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=6" class="menu_link">Join</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Last update: 2005-04-16</td>
+    </tr>  
+</table>	<div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Next update: 2005-04-23</td>
+    </tr>  
+</table>	</td>
+					<td width="380"><img src="images/intro_img.jpg" width="380" height="459" border="0"></td>
+					<td width="286" align="left" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=7" class="menu_link">Members</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=8" class="menu_link">Stories</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=9" class="menu_link">Links</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="mailto:ladyshiva@shivaglamour.net" class="menu_link">E-mail</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=11" class="menu_link">My banners</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.clips4sale.com/store.pl?1054" class="menu_link">PPV clips</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/toplist/index.html" class="menu_link">Top Sites</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">New pics: 176</td>
+    </tr>
+    
+</table>	<div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">Total pics: 19006</td>
+    </tr>
+    
+</table>	</td>
+				</tr>
+			</table>
+ <br>
+<p align="center"><b>
+
+<font face="Verdana"> <font size="6"><span style="background-color: #FF0033">Don't forget to visit my other sites</span></font></font></b></p>
+
+  <br>
+
+<table border="0">
+    <tr>
+        <td><a href="http://www.sexycrush.com/main1.html"><img
+        src="http://www.shivaglamour.net/banner/mycrushsite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.indiafemdom.com/main2.html"><img
+        src="http://www.shivaglamour.net/banner/mydommesite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.mycrushfetish.com/"><img
+        src="http://www.shivaglamour.net/banner/mycrushfetish.gif"
+        border="0" width="300" height="60"></a></td>
+    </tr>
+</table>
+ <br>
+  			<br>
+<table border="0" cellspacing="0" cellpadding="4" align="center">
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickafoot.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>FEET+feet+FEET</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabbw.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Big BEAUTIFUL Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickaasian.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Exotic ASIAN ladies</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>Sexy NYLONS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabutt.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Teasing ASS Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzabbws.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of BBWs!</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzalegs.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of LEGS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>More Fine Legs</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Stockings & NYLONS</a></td>
+	</tr>
+	<tr>
+		<td colspan="3" width="33.333333333333%" align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'>More FANTASTIC Nylons</a></td>
+	</tr>
+</table>
+<script>
+
+<!-- 
+	pickapicka=window.open('http://www.lotzalegs.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag', '_picka','resizable=no,scrollbars=yes,toolbar=no,location=no,directories=no,status=no,menubar=no');
+	pickapicka.blur(); 
+// --> 
+
+</script><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td width="33%" align="center"><a href='http://www.dawndesire.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/dawndesire.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylontops.com/cgi-bin/nylon-tops/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontops.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank2/rankem.cgi?id=shivag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.fat-tgp.com/cgi-bin/killah/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/KillahBBW.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/euronylons.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.stockings-world.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/stockingsworldtop100.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.legwomen.com/rank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/legwomentop50.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabesstamp.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/passionforlegs.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.ronisparadise.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/ronisparadise.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.mycrushfetish.com' target='_blank'><img src='/englishversion/mini_banners/mycrushfetishmini_anim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonfetishworld.com/toplist/in.php?site=1107367950' target='_blank'><img src='/englishversion/mini_banners/nylonfetishworld.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylontemptations.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontemptations.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhoseaddict.com/cgi-bin/AutoRank/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/pantyhoseaddict.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=427&id=27598' target='_blank'><img src='/englishversion/mini_banners/erdbeerfee.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonsgirls.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=LadyShiva' target='_blank'><img src='/englishversion/mini_banners/1_nylongirls.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.onlytease.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/onlytease.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksde.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://gmworld.janssen-s1.de/toplist/toplist.asp?action=in&user=849' target='_blank'><img src='/englishversion/mini_banners/gmstockingtop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexycrush.com/main1.html' target='_blank'><img src='/englishversion/mini_banners/sexycrushanim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.barefootbabes.com/cgi-bin/ar/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/barefootbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.foot-femdom.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/footfemdomsites.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.simplystockings.com/cgi-bin/autorank/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/simplystockings.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.kinkyvoluptuous.com/incoming.asp?id=51' target='_blank'><img src='/englishversion/mini_banners/5_kinkyvoluptuous.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.godfatherfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/godfather.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.gates-of-eva.com/links/toplink/in.php3?site=1071575528' target='_blank'><img src='/englishversion/mini_banners/4_gatesofevabanner09.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.dark-fashions.net/ff-top50/rankem.php?action=in&id=FF2018' target='_blank'><img src='/englishversion/mini_banners/darkfashions.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonfeetworld.com/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsfeetworld.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bestnylonsites.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bestnylon1banner_mini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.by-nightlife.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nightlife.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.my-heels.net/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/myheels.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sheernsexy.com/autorank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sheernsexy.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonsue.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsue.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.bbwfetishes.net/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwfetishesmini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=18354&id=149795' target='_blank'><img src='/englishversion/mini_banners/feetfindertoplistenbanner.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.golden-pantyhose.com/cgi-bin/megatopliste-nylon/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/goldenpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.indiafemdom.com' target='_blank'><img src='/englishversion/mini_banners/IndiaFemDom.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=14452&id=134690' target='_blank'><img src='/englishversion/mini_banners/candidfeet.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bbwpantyhose.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aliessa.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/6_alluringaliessabanner.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksbutton.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.hips2toes.hotwebamateurs.com/cgi-bin/top100/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hips2toes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.sexymodelsuk.com/cgi-bin/toprank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexymodelsuk.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.websitetoolbox.net/cgi/view/topsites.cgi?topsite=caly&ID=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hotlegs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=20&id=29559' target='_blank'><img src='/englishversion/mini_banners/eurotop69.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.900.ee/cgi-bin/top/topsites.cgi?bibi5lag' target='_blank'><img src='/englishversion/mini_banners/estoniantop.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylons100.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonstop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=19&id=20562' target='_blank'><img src='/englishversion/mini_banners/sexoaselinks.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.wwamateurs.com' target='_blank'><img src='/englishversion/mini_banners/wwamateurs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.69denier.com' target='_blank'><img src='/englishversion/mini_banners/69denier.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.fannysnet.com/main5.html' target='_blank'><img src='/englishversion/mini_banners/7_fannyban60h.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aragornsfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/aragorn.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bigbutt-amateurs.com' target='_blank'><img src='/englishversion/mini_banners/bigbuttamateursTGP.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhosemama.com' target='_blank'><img src='/englishversion/mini_banners/pantyhosemamamini.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.thefetishgalleries.com' target='_blank'><img src='/englishversion/mini_banners/drwatsons.gif' border=0></a></td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td colspan="2" align="center"><a href='http://www.wildblondeflower.com' target='_blank'><img src='/englishversion/stamps/wildblondeflowerthumb.gif' border=0></a></td>
+		<td align="center"><a href='http://certifiedasian.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedasian_thumb.jpg' border=0></a></td>
+		<td align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedlegs_sealstill.gif' border=0></a></td>
+		<td align="center"><a href='http://www.jackoffmaterial.com' target='_blank'><img src='/englishversion/stamps/jom_seal.gif' border=0></a></td>
+		<td align="center"><a href='http://usa.ultimatetopsites.com/bin/topsite.cgi?pinupglamour&cat=general&ID=10' target='_blank'><img src='/englishversion/stamps/klassytopsite.gif' border=0></a></td>
+		<td align="center"><a href='http://www.feet4all.com/cgi-bin/feet4all/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/stamps/feet4all.gif' border=0></a></td>
+		<td align="center"><a href='http://www.glamour-lady.com/topsites/in.php?site=1053191774' target='_blank'><img src='/englishversion/stamps/glamourlady.gif' border=0></a></td>
+		<td align="center"><a href='http://groups.yahoo.com/group/teasingshiva/' target='_blank'><img src='/englishversion/stamps/yahoojoin.gif' border=0></a></td>
+	</tr>
+</table>
+</td>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+	</tr>
+</table>
+</body>
+</html>
+--------------------End Source------------------------------
+
+Hit: http://brettsheats:kermit55@www.shivaglamour.net/englishversion/?pid=13/    Proxy: 128.250.217.137:2301    Time: 4/19/2005 8:25:19 PM
+--------------------Start Header----------------------------
+POST http://www.shivaglamour.net/englishversion/?pid=13/ HTTP/1.1
+Accept: */*
+Referer: http://www.shivaglamour.net
+User-Agent: Avant Browser (http://www.avantbrowser.com)
+Host: www.shivaglamour.net
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+Connection: keep-alive
+Content-Length: 137
+Cookie: PHPSESSID=149db125513eab31f08a79b414f99669; path=/
+
+PHP_AUTH_USER=brettsheats&PHP_AUTH_PW=kermit55&PHPSESSID=149db125513eab31f08a79b414f99669&login=Login&login=Login&login=Login&login=Login
+
+HTTP/1.1 200 OKDate:  Wed, 20 Apr 2005 00:25:20 GMT
+Server:  Apache/1.3.33 (Unix) mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_ssl/2.8.22 OpenSSL/0.9.7a PHP-CGI/0.1b
+Cache-Control:  no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires:  Thu, 19 Nov 1981 08:52:00 GMT
+Pragma:  no-cache
+X-Powered-By:  PHP/4.3.10
+Connection:  close
+Content-Type:  text/html
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>SHIVAGLAMOUR - Sexy mature leg teaser from INDIA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href='/englishversion/design_2.css' rel='stylesheet' type='text/css'>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+$status_pos = 0;
+$status_text = '   . . . . . . . . . . . . . . . . . . . . . .   w w w . s h i v a g l a m o u r . n e t   . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';
+$max_char = $status_text.length;
+
+function write_status_text() {
+	
+	$new_text = $status_text.substr(0, $status_pos )+ '_' + $status_text.substr( $status_pos+1 );
+
+	parent.window.status = $new_text;
+
+	$status_pos = $status_pos + 2;
+	if ( $status_pos >= $max_char ) {
+		$status_pos = 0;
+	}
+	setTimeout( "write_status_text()", 60 );
+}
+
+//write_status_text();
+
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#660000" text="#54658C" link="#660000" vlink="#660000" alink="#FF0000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="956" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFD5DC">
+	<tr>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+		<td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td colspan="3" height="20"><img src="images/spacer.gif" height="20" border="0"></td>
+				</tr>
+				<tr>
+					<td width="286" align="right" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/englishversion/?lang=en" class="menu_link">Main</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=1" class="menu_link">About & News</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=20" class="menu_link">Free pics</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=2&item_id=21659" class="menu_link">Updates</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=3" class="menu_link">Videos</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=21" class="menu_link">Friends</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=6" class="menu_link">Join</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Last update: 2005-04-16</td>
+    </tr>  
+</table>	<div align="right"><table border="0" width="240">
+
+<tr>
+        <td class="menu_link" align="left">Next update: 2005-04-23</td>
+    </tr>  
+</table>	</td>
+					<td width="380"><img src="images/intro_img.jpg" width="380" height="459" border="0"></td>
+					<td width="286" align="left" valign="middle" style="vertical-align: middle;"><table border=0 cellspacing=0 cellpadding=0 class="menu_table">
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=7" class="menu_link">Members</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=8" class="menu_link">Stories</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=9" class="menu_link">Links</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="mailto:ladyshiva@shivaglamour.net" class="menu_link">E-mail</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="?pid=11" class="menu_link">My banners</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.clips4sale.com/store.pl?1054" class="menu_link">PPV clips</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="menu_td"><a href="http://www.shivaglamour.net/toplist/index.html" class="menu_link">Top Sites</a></td>
+	</tr>
+</table><br><br><div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">New pics: 176</td>
+    </tr>
+    
+</table>	<div align="right"><table border="0" width="200">
+
+<tr>
+        <td class="menu_link" align="left">Total pics: 19006</td>
+    </tr>
+    
+</table>	</td>
+				</tr>
+			</table>
+ <br>
+<p align="center"><b>
+
+<font face="Verdana"> <font size="6"><span style="background-color: #FF0033">Don't forget to visit my other sites</span></font></font></b></p>
+
+  <br>
+
+<table border="0">
+    <tr>
+        <td><a href="http://www.sexycrush.com/main1.html"><img
+        src="http://www.shivaglamour.net/banner/mycrushsite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.indiafemdom.com/main2.html"><img
+        src="http://www.shivaglamour.net/banner/mydommesite.gif"
+        border="0" width="300" height="60"></a></td>
+        <td><a href="http://www.mycrushfetish.com/"><img
+        src="http://www.shivaglamour.net/banner/mycrushfetish.gif"
+        border="0" width="300" height="60"></a></td>
+    </tr>
+</table>
+ <br>
+  			<br>
+<table border="0" cellspacing="0" cellpadding="4" align="center">
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickafoot.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>FEET+feet+FEET</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabbw.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Big BEAUTIFUL Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickaasian.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Exotic ASIAN ladies</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>Sexy NYLONS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.pickabutt.com/cgi-bin/picka/rankem.cgi?id=bibi5lag' target='_blank'>Teasing ASS Women</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzabbws.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of BBWs!</a></td>
+	</tr>
+	<tr>
+		<td width="33.333333333333%" align="center"><a href='http://www.lotzalegs.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Lots of LEGS</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'>More Fine Legs</a></td>
+		<td width="33.333333333333%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'>Stockings & NYLONS</a></td>
+	</tr>
+	<tr>
+		<td colspan="3" width="33.333333333333%" align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'>More FANTASTIC Nylons</a></td>
+	</tr>
+</table>
+<script>
+
+<!-- 
+	pickapicka=window.open('http://www.pickabbw.com/cgi-bin/picka/rankem.cgi?id=bibi5lag', '_picka','resizable=no,scrollbars=yes,toolbar=no,location=no,directories=no,status=no,menubar=no');
+	pickapicka.blur(); 
+// --> 
+
+</script><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td width="33%" align="center"><a href='http://www.dawndesire.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/dawndesire.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylontops.com/cgi-bin/nylon-tops/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontops.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank2/rankem.cgi?id=shivag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.fat-tgp.com/cgi-bin/killah/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/KillahBBW.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.euronylons.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/euronylons.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.stockings-world.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/stockingsworldtop100.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.legwomen.com/rank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/legwomentop50.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexynetbabes.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexynetbabesstamp.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.passionforlegs.com/rankem/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/passionforlegs.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.ronisparadise.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/ronisparadise.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.mycrushfetish.com' target='_blank'><img src='/englishversion/mini_banners/mycrushfetishmini_anim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonfetishworld.com/toplist/in.php?site=1107367950' target='_blank'><img src='/englishversion/mini_banners/nylonfetishworld.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylontemptations.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylontemptations.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhoseaddict.com/cgi-bin/AutoRank/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/pantyhoseaddict.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=427&id=27598' target='_blank'><img src='/englishversion/mini_banners/erdbeerfee.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonsgirls.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=LadyShiva' target='_blank'><img src='/englishversion/mini_banners/1_nylongirls.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.onlytease.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/onlytease.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksde.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://gmworld.janssen-s1.de/toplist/toplist.asp?action=in&user=849' target='_blank'><img src='/englishversion/mini_banners/gmstockingtop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sexycrush.com/main1.html' target='_blank'><img src='/englishversion/mini_banners/sexycrushanim.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.barefootbabes.com/cgi-bin/ar/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/barefootbabes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.foot-femdom.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/footfemdomsites.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.simplystockings.com/cgi-bin/autorank/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/simplystockings.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.kinkyvoluptuous.com/incoming.asp?id=51' target='_blank'><img src='/englishversion/mini_banners/5_kinkyvoluptuous.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.godfatherfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/godfather.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.gates-of-eva.com/links/toplink/in.php3?site=1071575528' target='_blank'><img src='/englishversion/mini_banners/4_gatesofevabanner09.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.dark-fashions.net/ff-top50/rankem.php?action=in&id=FF2018' target='_blank'><img src='/englishversion/mini_banners/darkfashions.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.nylonfeetworld.com/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsfeetworld.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bestnylonsites.com/cgi-bin/toplist/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bestnylon1banner_mini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.by-nightlife.de/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nightlife.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.my-heels.net/cgi-bin/megatoplist/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/myheels.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.sheernsexy.com/autorank/in.php?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sheernsexy.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylonsue.com/cgi-bin/toplist/in.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonsue.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.bbwfetishes.net/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwfetishesmini.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=18354&id=149795' target='_blank'><img src='/englishversion/mini_banners/feetfindertoplistenbanner.jpg' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.golden-pantyhose.com/cgi-bin/megatopliste-nylon/toplist.pl?action=click_in&account=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/goldenpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.indiafemdom.com' target='_blank'><img src='/englishversion/mini_banners/IndiaFemDom.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://free-toplist.de/script/count.php?liste=14452&id=134690' target='_blank'><img src='/englishversion/mini_banners/candidfeet.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bbwpantyhose.com/cgi-bin/autorank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/bbwpantyhose.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aliessa.com/cgi-bin/arp/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/6_alluringaliessabanner.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.leglinks.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/leglinksbutton.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.hips2toes.hotwebamateurs.com/cgi-bin/top100/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hips2toes.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.sexymodelsuk.com/cgi-bin/toprank/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/sexymodelsuk.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.websitetoolbox.net/cgi/view/topsites.cgi?topsite=caly&ID=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/hotlegs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=20&id=29559' target='_blank'><img src='/englishversion/mini_banners/eurotop69.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.900.ee/cgi-bin/top/topsites.cgi?bibi5lag' target='_blank'><img src='/englishversion/mini_banners/estoniantop.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.nylons100.com/cgi-bin/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/mini_banners/nylonstop100.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.free-toplisten.at/script/count.php?liste=19&id=20562' target='_blank'><img src='/englishversion/mini_banners/sexoaselinks.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.wwamateurs.com' target='_blank'><img src='/englishversion/mini_banners/wwamateurs.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.69denier.com' target='_blank'><img src='/englishversion/mini_banners/69denier.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.fannysnet.com/main5.html' target='_blank'><img src='/englishversion/mini_banners/7_fannyban60h.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.aragornsfeetlinks.com' target='_blank'><img src='/englishversion/mini_banners/aragorn.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.bigbutt-amateurs.com' target='_blank'><img src='/englishversion/mini_banners/bigbuttamateursTGP.gif' border=0></a></td>
+		<td width="33%" align="center"><a href='http://www.pantyhosemama.com' target='_blank'><img src='/englishversion/mini_banners/pantyhosemamamini.gif' border=0></a></td>
+	</tr>
+	<tr>
+		<td width="33%" align="center"><a href='http://www.thefetishgalleries.com' target='_blank'><img src='/englishversion/mini_banners/drwatsons.gif' border=0></a></td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tr>
+		<td colspan="2" align="center"><a href='http://www.wildblondeflower.com' target='_blank'><img src='/englishversion/stamps/wildblondeflowerthumb.gif' border=0></a></td>
+		<td align="center"><a href='http://certifiedasian.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedasian_thumb.jpg' border=0></a></td>
+		<td align="center"><a href='http://www.certifiedlegs.com/cgi-bin/rankem.cgi?action=in&id=bibi5lag' target='_blank'><img src='/englishversion/stamps/certifiedlegs_sealstill.gif' border=0></a></td>
+		<td align="center"><a href='http://www.jackoffmaterial.com' target='_blank'><img src='/englishversion/stamps/jom_seal.gif' border=0></a></td>
+		<td align="center"><a href='http://usa.ultimatetopsites.com/bin/topsite.cgi?pinupglamour&cat=general&ID=10' target='_blank'><img src='/englishversion/stamps/klassytopsite.gif' border=0></a></td>
+		<td align="center"><a href='http://www.feet4all.com/cgi-bin/feet4all/rankem.cgi?id=bibi5lag' target='_blank'><img src='/englishversion/stamps/feet4all.gif' border=0></a></td>
+		<td align="center"><a href='http://www.glamour-lady.com/topsites/in.php?site=1053191774' target='_blank'><img src='/englishversion/stamps/glamourlady.gif' border=0></a></td>
+		<td align="center"><a href='http://groups.yahoo.com/group/teasingshiva/' target='_blank'><img src='/englishversion/stamps/yahoojoin.gif' border=0></a></td>
+	</tr>
+</table>
+</td>
+		<td width="2" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="2" border="0"></td>
+	</tr>
+</table>
+</body>
+</html>
+--------------------End Source------------------------------
+
+Hit: http://imbrokeman:momoney@www.shivaglamour.net/englishversion/?pid=13    Proxy: 64.246.18.25:8888    Time: 4/19/2005 8:41:26 PM
+--------------------Start Header----------------------------
+GET http://www.tenebril.com/products/ghostsurf/newproxy.html HTTP/1.0
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Host: www.tenebril.com
+Pragma: no-cache
+Cookie: PHPSESSID=fce99b08adc7d06a708198c3cfb7ed86; path=/
+
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+ETag: "1b80b5-2b6-415f1f79"
+Server: Apache/1.3.22 (Unix)  (Red-Hat/Linux) mod_jk/1.2.0 mod_perl/1.24_01 PHP/4.2.2 FrontPage/5.0.2 mod_ssl/2.8.5 OpenSSL/0.9.6b
+Date: Wed, 20 Apr 2005 00:52:53 GMT
+Last-Modified: Sat, 02 Oct 2004 21:36:57 GMT
+Content-Length: 694
+Accept-Ranges: bytes
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+<html>
+<head>
+<title>403 Forbidden</title>
+<map name="linkmap">
+<area shape="rect" coords="254,50,259,52" href="http://www.tenebril.com/products/ghostsurf/newproxy-auto-1.html">
+<area shape="rect" coords="0,20,254,34" href="http://www.tenebril.com/products/ghostsurf/newproxy-content.html">
+<area shape="rect" coords="0,0,1,1" href="http://www.tenebril.com/products/ghostsurf/newproxy-auto-2.html">
+</map>
+</head>
+<body>
+<h1>403 Forbidden</h1>
+You are attempting to use GhostSurf's anonymous Internet service without
+being a GhostSurf customer.  For help, please click the link below.<br>
+<img src="http://www.tenebril.com/img/newproxy-red-link.jpg" border=0 usemap="#linkmap">
+</body>
+</html>
+
+--------------------End Source------------------------------
+
+Hit: http://TYLER1:AUSTIN1@www.shivaglamour.net/englishversion/?pid=13    Proxy: 64.246.18.25:8888    Time: 4/19/2005 8:42:51 PM
+--------------------Start Header----------------------------
+GET http://www.tenebril.com/products/ghostsurf/newproxy.html HTTP/1.0
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Host: www.tenebril.com
+Pragma: no-cache
+Cookie: PHPSESSID=a6f04fcc8d341db115887da777bb31ca; path=/
+
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+ETag: "1b80b5-2b6-415f1f79"
+Server: Apache/1.3.22 (Unix)  (Red-Hat/Linux) mod_jk/1.2.0 mod_perl/1.24_01 PHP/4.2.2 FrontPage/5.0.2 mod_ssl/2.8.5 OpenSSL/0.9.6b
+Date: Wed, 20 Apr 2005 00:54:18 GMT
+Last-Modified: Sat, 02 Oct 2004 21:36:57 GMT
+Content-Length: 694
+Accept-Ranges: bytes
+
+--------------------End Header------------------------------
+--------------------Start Source----------------------------
+<html>
+<head>
+<title>403 Forbidden</title>
+<map name="linkmap">
+<area shape="rect" coords="254,50,259,52" href="http://www.tenebril.com/products/ghostsurf/newproxy-auto-1.html">
+<area shape="rect" coords="0,20,254,34" href="http://www.tenebril.com/products/ghostsurf/newproxy-content.html">
+<area shape="rect" coords="0,0,1,1" href="http://www.tenebril.com/products/ghostsurf/newproxy-auto-2.html">
+</map>
+</head>
+<body>
+<h1>403 Forbidden</h1>
+You are attempting to use GhostSurf's anonymous Internet service without
+being a GhostSurf customer.  For help, please click the link below.<br>
+<img src="http://www.tenebril.com/img/newproxy-red-link.jpg" border=0 usemap="#linkmap">
+</body>
+</html>
+
+--------------------End Source------------------------------
+

@@ -1,0 +1,410 @@
+http://peterfc:4528chat@208.184.157.50|213.232.95.2:80||||||GET|Wordlist: dhd.txt|0
+http://DarkAngelxxx:kristin@208.184.157.50|80.55.57.26:80||||||GET|Wordlist: dhd.txt|0
+http://jadugar:jester@www.google.com||||google|||GET|dhd.txt|0
+http://gtjmail:bluesman@www.google.com||||google|||GET|dhd.txt|0
+http://penzias:wilson@www.google.com||||google|||GET|dhd.txt|0
+http://wileyc:bender2k@www.google.com||||google|||GET|dhd.txt|0
+http://piton:femur@www.google.com||||google|||GET|dhd.txt|0
+http://sssosa:mohammed@www.google.com||||google|||GET|dhd.txt|0
+http://roetzi:310771@www.google.com||||google|||GET|dhd.txt|0
+http://jadugar:jester@www.google.com|||||||GET|dhd.txt|0
+http://gtjmail:bluesman@www.google.com|||||||GET|dhd.txt|0
+http://penzias:wilson@www.google.com|||||||GET|dhd.txt|0
+http://wileyc:bender2k@www.google.com|||||||GET|dhd.txt|0
+http://piton:femur@www.google.com|||||||GET|dhd.txt|0
+http://sssosa:mohammed@www.google.com|||||||GET|dhd.txt|0
+http://roetzi:310771@www.google.com|||||||GET|dhd.txt|0
+http://biggun65101:penguin@www.google.com|||||||GET|dhd.txt|0
+http://dneg13:cwoods@www.google.com|||||||GET|dhd.txt|0
+http://volvov:acr4040@www.google.com|||||||GET|dhd.txt|0
+http://da4947:da5858@www.google.com|||||||GET|dhd.txt|0
+http://Leadpipe:hardpipe@www.google.com|||||||GET|dhd.txt|0
+http://scarface40:matrix40@www.google.com|||||||GET|dhd.txt|0
+http://minty2000:mintsauc@www.google.com|||||||GET|dhd.txt|0
+http://Nightowlcspc:vfields@www.google.com|||||||GET|dhd.txt|0
+http://ceorichardh:dursban5@www.google.com|||||||GET|dhd.txt|0
+http://eddiemoy:js58tbz2@www.google.com|||||||GET|dhd.txt|0
+http://Nepa1:Man1ra2@www.google.com|||||||GET|dhd.txt|0
+http://deadman74:terror@www.google.com|||||||GET|dhd.txt|0
+http://drbsolutions:865991@www.google.com|||||||GET|dhd.txt|0
+http://mpulle:Mikhail1@www.google.com|||||||GET|dhd.txt|0
+http://jadugar:jester@www.google.com|||||||GET|dhd.txt|0
+http://gtjmail:bluesman@www.google.com|||||||GET|dhd.txt|0
+http://penzias:wilson@www.google.com|||||||GET|dhd.txt|0
+http://wileyc:bender2k@www.google.com|||||||GET|dhd.txt|0
+http://piton:femur@www.google.com|||||||GET|dhd.txt|0
+http://sssosa:mohammed@www.google.com|||||||GET|dhd.txt|0
+http://roetzi:310771@www.google.com|||||||GET|dhd.txt|0
+http://biggun65101:penguin@www.google.com|||||||GET|dhd.txt|0
+http://dneg13:cwoods@www.google.com|||||||GET|dhd.txt|0
+http://volvov:acr4040@www.google.com|||||||GET|dhd.txt|0
+http://da4947:da5858@www.google.com|||||||GET|dhd.txt|0
+http://Leadpipe:hardpipe@www.google.com|||||||GET|dhd.txt|0
+http://scarface40:matrix40@www.google.com|||||||GET|dhd.txt|0
+http://minty2000:mintsauc@www.google.com|||||||GET|dhd.txt|0
+http://Nightowlcspc:vfields@www.google.com|||||||GET|dhd.txt|0
+http://ceorichardh:dursban5@www.google.com|||||||GET|dhd.txt|0
+http://eddiemoy:js58tbz2@www.google.com|||||||GET|dhd.txt|0
+http://Nepa1:Man1ra2@www.google.com|||||||GET|dhd.txt|0
+http://deadman74:terror@www.google.com|||||||GET|dhd.txt|0
+http://drbsolutions:865991@www.google.com|||||||GET|dhd.txt|0
+http://mpulle:Mikhail1@www.google.com|||||||GET|dhd.txt|0
+http://lorenzopir:gaellus@www.google.com|||||||GET|dhd.txt|0
+http://mchick:zappad@www.google.com|||||||GET|dhd.txt|0
+http://Coldfire:freemars@www.google.com|||||||GET|dhd.txt|0
+http://Vegas196:fubar@www.google.com|||||||GET|dhd.txt|0
+http://Eastwood:quinton@www.google.com|||||||GET|dhd.txt|0
+http://jadugar:jester@www.google.com|||||||GET|dhd.txt|0
+http://gtjmail:bluesman@www.google.com|||||||GET|dhd.txt|0
+http://penzias:wilson@www.google.com|||||||GET|dhd.txt|0
+http://wileyc:bender2k@www.google.com|||||||GET|dhd.txt|0
+http://piton:femur@www.google.com|||||||GET|dhd.txt|0
+http://sssosa:mohammed@www.google.com|||||||GET|dhd.txt|0
+http://roetzi:310771@www.google.com|||||||GET|dhd.txt|0
+http://biggun65101:penguin@www.google.com|||||||GET|dhd.txt|0
+http://dneg13:cwoods@www.google.com|||||||GET|dhd.txt|0
+http://volvov:acr4040@www.google.com|||||||GET|dhd.txt|0
+http://da4947:da5858@www.google.com|||||||GET|dhd.txt|0
+http://Leadpipe:hardpipe@www.google.com|||||||GET|dhd.txt|0
+http://scarface40:matrix40@www.google.com|||||||GET|dhd.txt|0
+http://minty2000:mintsauc@www.google.com|||||||GET|dhd.txt|0
+http://roetzi:310771@www.google.com|213.238.133.82:80||||||GET|dhd.txt|0
+http://da4947:da5858@www.google.com|213.238.133.82:80||||||GET|dhd.txt|0
+http://Leadpipe:hardpipe@www.google.com|213.238.133.82:80||||||GET|dhd.txt|0
+http://Leadpipe:hardpipe@www.google.com|213.238.133.82:80||||||GET|dhd.txt|0
+http://minty2000:mintsauc@www.google.com|85.32.57.194:80||||||GET|dhd.txt|0
+http://Nightowlcspc:vfields@www.google.com|213.238.133.82:80||||||GET|dhd.txt|0
+http://eddiemoy:js58tbz2@www.google.com|||||||GET|dhd.txt|0
+http://Nepa1:Man1ra2@www.google.com|||||||GET|dhd.txt|0
+http://deadman74:terror@www.google.com|||||||GET|dhd.txt|0
+http://drbsolutions:865991@www.google.com|||||||GET|dhd.txt|0
+http://mpulle:Mikhail1@www.google.com|||||||GET|dhd.txt|0
+http://lorenzopir:gaellus@www.google.com|||||||GET|dhd.txt|0
+http://mchick:zappad@www.google.com|||||||GET|dhd.txt|0
+http://Coldfire:freemars@www.google.com|||||||GET|dhd.txt|0
+http://Vegas196:fubar@www.google.com|||||||GET|dhd.txt|0
+http://Eastwood:quinton@www.google.com|||||||GET|dhd.txt|0
+http://shikob:itchitch@www.google.com|||||||GET|dhd.txt|0
+http://kenbob1:bobbo1@www.google.com|||||||GET|dhd.txt|0
+http://tcmtcm:hoopsdan@www.google.com|||||||GET|dhd.txt|0
+http://LooseCannon:Warlord@www.google.com|||||||GET|dhd.txt|0
+http://maxbogus:bonnie19@www.google.com|||||||GET|dhd.txt|0
+http://bigsnail:coldfall@www.google.com|||||||GET|dhd.txt|0
+http://peterfc:4528chat@www.google.com|||||||GET|dhd.txt|0
+http://norbert39:pizza39@www.google.com|||||||GET|dhd.txt|0
+http://yvonic:dukuduku@www.google.com|||||||GET|dhd.txt|0
+http://muzikman:opus13@www.google.com|||||||GET|dhd.txt|0
+http://klipschman:trooper2@www.google.com|||||||GET|dhd.txt|0
+http://eoind:guess@www.google.com|||||||GET|dhd.txt|0
+http://eoind:guess@www.google.com|||||||GET|dhd.txt|0
+http://paaron96:ranger35@www.google.com|||||||GET|dhd.txt|0
+http://ravivee4:condor@www.google.com|||||||GET|dhd.txt|0
+http://enigma654:vision5@www.google.com|||||||GET|dhd.txt|0
+http://botafogo:germano@www.google.com|||||||GET|dhd.txt|0
+http://brianandchris:scooter1@www.google.com|||||||GET|dhd.txt|0
+http://esw71073:st450223@www.google.com|||||||GET|dhd.txt|0
+http://WRIKER32:NCC1701D@www.google.com|||||||GET|dhd.txt|0
+http://battleguard:superman@www.google.com|||||||GET|dhd.txt|0
+http://jonpaw:permss@www.google.com|||||||GET|dhd.txt|0
+http://galvin:clifford@www.google.com|||||||GET|dhd.txt|0
+http://spcombs:A11ison@www.google.com|||||||GET|dhd.txt|0
+http://PapsPLC:serena@www.google.com|||||||GET|dhd.txt|0
+http://chastings10:earths@www.google.com|||||||GET|dhd.txt|0
+http://havana9999:wireless@www.google.com|||||||GET|dhd.txt|0
+http://royevans:overlord@www.google.com|||||||GET|dhd.txt|0
+http://cgardan:19154848@www.google.com|||||||GET|dhd.txt|0
+http://Poolman:swim747@www.google.com|||||||GET|dhd.txt|0
+http://Divemedic911:82314116@www.google.com|||||||GET|dhd.txt|0
+http://raffello:gotovii@www.google.com|||||||GET|dhd.txt|0
+http://jimmyf49:password@www.google.com|||||||GET|dhd.txt|0
+http://wettbird:lurch197@www.google.com|||||||GET|dhd.txt|0
+http://nobones:monkey@www.google.com|||||||GET|dhd.txt|0
+http://tarigard:aistopod@www.google.com|69.44.61.199:8888||||||GET|dhd.txt|0
+http://cutter31:thegas@www.google.com|208.187.165.105:8080||||||GET|dhd.txt|0
+http://DarkAngelxxx:kristin@www.google.com|24.234.114.66:8000||||||GET|dhd.txt|0
+http://sjfuller:ferr190@www.google.com|67.133.123.36:80||||||GET|dhd.txt|0
+http://tarigard:aistopod@www.google.com|69.44.61.199:8888||||||GET|dhd.txt|0
+http://cutter31:thegas@www.google.com|208.187.165.105:8080||||||GET|dhd.txt|0
+http://joedirt037:omega037@www.google.com|69.44.61.199:8888||||||GET|dhd.txt|0
+http://sjfuller:ferr190@www.google.com|208.187.165.105:8080||||||GET|dhd.txt|0
+http://craigt2003:123456@www.google.com|67.133.123.36:80||||||GET|dhd.txt|0
+http://mlb42:winston@www.google.com|69.43.144.45:8000||||||GET|dhd.txt|0
+http://tootuff15:impreza1@www.google.com|69.44.61.199:8888||||||GET|dhd.txt|0
+http://beefdiddly:zips68@www.google.com|208.187.165.105:8080||||||GET|dhd.txt|0
+http://sisyphean:ginger32@www.google.com|67.133.123.36:80||||||GET|dhd.txt|0
+http://fjodorse:blackdea@www.google.com|69.43.144.45:8000||||||GET|dhd.txt|0
+http://Unkraut:Jackson5@www.google.com|69.44.61.199:8888||||||GET|dhd.txt|0
+http://HollieJohnny:chariot2@www.google.com|208.187.165.105:8080||||||GET|dhd.txt|0
+http://sharktone:maria1@www.google.com|67.133.123.36:80||||||GET|dhd.txt|0
+http://HollieJohnny:chariot2@www.google.com|208.187.165.105:8080||||||GET|dhd.txt|0
+http://sharktone:maria1@www.google.com|67.133.123.36:80||||||GET|dhd.txt|0
+http://Unkraut:Jackson5@www.google.com|69.44.61.199:8888||||||GET|dhd.txt|0
+http://marichan:novalis@members.tiffanyteen.com|202.56.231.117:8080||||||GET|dhd.txt|0
+http://mingusdew:123app@www.google.com|69.44.61.199:8888||||||GET|dhd.txt|0
+http://movren:00326010@www.google.com|208.187.165.105:8080||||||GET|dhd.txt|0
+http://Dragons:slayer7@www.google.com|24.33.14.33:80||||||GET|dhd.txt|0
+http://billbobo:ranger1@www.google.com|217.52.41.194:80||||||GET|dhd.txt|0
+http://kwt306:006888@www.google.com|24.14.246.55:443||||||GET|dhd.txt|0
+http://wittgolf:irish1@www.google.com|69.44.61.199:8888||||||GET|dhd.txt|0
+http://prince:boiling@www.google.com|208.187.165.105:8080||||||GET|dhd.txt|0
+http://dumbroski:peace@www.google.com|69.44.61.199:8888||||||GET|dhd.txt|0
+http://emailbox12345:12345@www.google.com|208.187.165.105:8080||||||GET|dhd.txt|0
+http://tlcarus:lucretiu@www.google.com|24.33.14.33:80||||||GET|dhd.txt|0
+http://loverblue:radittap@www.google.com|217.52.41.194:80||||||GET|dhd.txt|0
+http://drfunmd:iluvporn@www.tnvgirls.com/members/|62.121.73.205:80||||||GET|dhd.txt|0
+http://:@www.easynews.com/login/|148.244.150.58:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|148.244.150.58:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|196.28.48.100:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|196.28.48.98:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|162.38.132.8:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|208.187.165.105:8080||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|66.208.130.186:8080||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|159.16.1.53:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|148.235.160.150:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|62.59.166.77:8080||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://:@www.easynews.com/login/|200.118.118.4:3128||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://HWiesner:tilama1@www.easynews.com/login/|148.244.150.58:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://Jansien:dd586jb@www.easynews.com/login/|196.28.48.98:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://JBond911:Bond911@www.easynews.com/login/|196.28.48.100:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://Montoe:10sspz@www.easynews.com/login/|148.244.150.57:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://Mouse66:GU08440@www.easynews.com/login/|208.187.165.105:8080||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://Pedro456:ulrich1@www.easynews.com/login/|66.208.130.186:8080||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://Lazzaric43:donkey44@www.easynews.com/login/|146.82.96.66:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://RMD609:OB2581@www.easynews.com/login/|148.235.160.150:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://Ritpong:char99@www.easynews.com/login/|200.118.118.4:3128||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://Rateye:SpiKe23@www.easynews.com/login/|62.59.166.77:8080||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://ZOLAGATHA:ZOLAGA27@www.easynews.com/login/|213.200.240.244:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://Steven:mach01@www.easynews.com/login/|200.1.19.66:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://abcpat:fix5trip@www.easynews.com/login/|81.117.178.44:8080||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://alexander123:starten1@www.easynews.com/login/|160.79.249.240:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://adomeg:ru4reel@www.easynews.com/login/|148.223.132.121:80||EASYNEWS.COM Login Page v2.26||||POST|earl+-easy.txt|0
+http://brettheimer:p3xw68ka@www.easynews.com/login/|216.155.76.77:8080||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=brettheimer&password=p3xw68ka|POST|earl+-easy.txt|0
+http://cleong:fr2327@www.easynews.com/login/|66.208.197.213:8002||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=cleong&password=fr2327|POST|earl+-easy.txt|0
+http://danolsve:dfg456@www.easynews.com/login/|216.155.76.77:8080||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=danolsve&password=dfg456|POST|earl+-easy.txt|0
+http://dilvin1:aussie1@www.easynews.com/login/|66.237.84.20:8080||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=dilvin1&password=aussie1|POST|earl+-easy.txt|0
+http://fishbus78:weasel03@www.easynews.com/login/|216.155.76.77:8080||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=fishbus78&password=weasel03|POST|earl+-easy.txt|0
+http://garyy2002:yg3nb7s@www.easynews.com/login/|66.237.84.20:8080||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=garyy2002&password=yg3nb7s|POST|earl+-easy.txt|0
+http://happy:xp0@www.easynews.com/login/|216.155.76.77:8080||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=happy&password=xp0|POST|earl+-easy.txt|0
+http://fdofdo:Gonza1@www.easynews.com/login/|216.155.76.77:8080||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=fdofdo&password=Gonza1|POST|earl+-easy.txt|0
+http://frightmare:thx1138@www.easynews.com/login/|66.237.84.20:8080||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=frightmare&password=thx1138|POST|earl+-easy.txt|0
+http://gd001:g4242g1@www.easynews.com/login/|80.122.185.2:8080||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=gd001&password=g4242g1|POST|earl+-easy.txt|0
+http://maverick0403:dogs123@www.easynews.com/login/|66.208.197.213:8002||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=maverick0403&password=dogs123|POST|earl+-easy.txt|0
+http://lynnr:robert1@www.easynews.com/login/|66.208.197.213:8002||EASYNEWS.COM Login Page v2.26||http://www.easynews.com/login/index.phtml|username=lynnr&password=robert1|POST|earl+-easy.txt|0
+http://burrito:cucaracha@www.rate.ee/login.php|||||http://www.rate.ee/login.php|username=burrito&password=cucaracha&act=login|POST|test.txt|0
+http://burrito:cucaracha@www.rate.ee/login.php|||Sisselogimine||http://www.rate.ee/login.php|username=burrito&password=cucaracha&act=login|POST|test.txt|0
+http://burrito:cucaracha@www.rate.ee/login.php|||Sisselogimine||http://www.rate.ee/login.php|username=burrito&password=cucaracha&act=login|POST|test.txt|0
+http://burrito:cucaracha@www.rate.ee/login.php|||Sisselogimine||http://www.rate.ee/login.php|username=burrito&password=cucaracha&act=login|POST|test.txt|0
+http://burrito:cucaracha@www.rate.ee/login.php|||Sisselogimine||http://www.rate.ee/login.php|username=burrito&password=cucaracha&act=login|POST|test.txt|0
+http://burrito:cucaracha@www.rate.ee/login.php|||Sisselogimine||http://www.rate.ee/login.php|username=burrito&password=cucaracha&act=login|POST|test.txt|0
+http://gtjmail:bluesman@www.bubblegirls.com/login/login.php|193.191.141.65:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=gtjmail&u_p=bluesman&93f85=bd65e|POST|dhd.txt|0
+http://wileyc:bender2k@www.bubblegirls.com/login/login.php|148.235.6.87:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=wileyc&u_p=bender2k&80cae=8a5d8&dd7ca=b9bc9|POST|dhd.txt|0
+http://piton:femur@www.bubblegirls.com/login/login.php|218.30.123.110:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=piton&u_p=femur&93f85=bd65e&1a1bc=57964|POST|dhd.txt|0
+http://jadugar:jester@www.bubblegirls.com/login/login.php|202.101.32.9:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=jadugar&u_p=jester&2fe1f=9acaa|POST|dhd.txt|0
+http://weekessg:leo123@www.bubblegirls.com/login/login.php|61.144.222.49:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=weekessg&u_p=leo123&6bae7=aa7b7|POST|dhd.txt|0
+http://penzias:wilson@www.bubblegirls.com/login/login.php|218.75.196.218:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=penzias&u_p=wilson&c2ed5=b9cd2|POST|dhd.txt|0
+http://jadugar:jester@www.bubblegirls.com/login/login.php|193.191.141.65:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=jadugar&u_p=jester&d96b5=d6ee8|POST|dhd.txt|0
+http://piton:femur@www.bubblegirls.com/login/login.php|148.235.6.87:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=piton&u_p=femur&d96b5=d6ee8&e1689=df3b5|POST|dhd.txt|0
+http://sssosa:mohammed@www.bubblegirls.com/login/login.php|141.108.18.27:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=sssosa&u_p=mohammed&d96b5=d6ee8&e1689=df3b5&5005a=6bf6d|POST|dhd.txt|0
+http://wileyc:bender2k@www.bubblegirls.com/login/login.php|62.194.128.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=wileyc&u_p=bender2k&9c43b=d2b53|POST|dhd.txt|0
+http://penzias:wilson@www.bubblegirls.com/login/login.php|218.30.123.110:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=penzias&u_p=wilson&af5ec=97000|POST|dhd.txt|0
+http://gtjmail:bluesman@www.bubblegirls.com/login/login.php|213.82.52.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=gtjmail&u_p=bluesman&8f781=b0f3a&9a9c2=4af47|POST|dhd.txt|0
+http://roetzi:310771@www.bubblegirls.com/login/login.php|151.8.7.15:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=roetzi&u_p=310771&d96b5=d6ee8&e1689=df3b5&5005a=6bf6d&3cf28=89744|POST|dhd.txt|0
+http://weekessg:leo123@www.bubblegirls.com/login/login.php|218.190.79.137:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=weekessg&u_p=leo123&371e5=de7fe|POST|dhd.txt|0
+http://minty2000:mintsauc@www.bubblegirls.com/login/login.php|141.108.18.27:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=minty2000&u_p=mintsauc&c1fd0=4cee8|POST|dhd.txt|0
+http://ceorichardh:dursban5@www.bubblegirls.com/login/login.php|62.194.128.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=ceorichardh&u_p=dursban5&7b9b3=ae7ad|POST|dhd.txt|0
+http://scarface40:matrix40@www.bubblegirls.com/login/login.php|148.235.6.87:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=scarface40&u_p=matrix40&334eb=e750b|POST|dhd.txt|0
+http://Nepa1:Man1ra2@www.bubblegirls.com/login/login.php|151.8.7.15:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=Nepa1&u_p=Man1ra2&7b9b3=ae7ad&c2487=805e3|POST|dhd.txt|0
+http://eddiemoy:js58tbz2@www.bubblegirls.com/login/login.php|213.82.52.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=eddiemoy&u_p=js58tbz2&c1fd0=4cee8&ba05e=d9183|POST|dhd.txt|0
+http://drbsolutions:865991@www.bubblegirls.com/login/login.php|12.15.58.168:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=drbsolutions&u_p=865991&7b9b3=ae7ad&c2487=805e3&92b00=801e0|POST|dhd.txt|0
+http://Nightowlcspc:vfields@www.bubblegirls.com/login/login.php|218.190.79.137:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=Nightowlcspc&u_p=vfields&c6c11=71917|POST|dhd.txt|0
+http://Vegas196:fubar@www.bubblegirls.com/login/login.php|62.194.128.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=Vegas196&u_p=fubar&cf0d7=5373f|POST|dhd.txt|0
+http://Eastwood:quinton@www.bubblegirls.com/login/login.php|213.82.52.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=Eastwood&u_p=quinton&b0992=d2ff7|POST|dhd.txt|0
+http://mchick:zappad@www.bubblegirls.com/login/login.php|141.108.18.27:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=mchick&u_p=zappad&28ad4=9def0|POST|dhd.txt|0
+http://kenbob1:bobbo1@www.bubblegirls.com/login/login.php|12.15.58.168:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=kenbob1&u_p=bobbo1&b0992=d2ff7&5fff1=e269b|POST|dhd.txt|0
+http://weekessg:leo123@www.bubblegirls.com/login/login.php|12.15.58.168:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=weekessg&u_p=leo123&43d5d=5d2a8|POST|dhd.txt|0
+http://jadugar:jester@www.bubblegirls.com/login/login.php|62.194.128.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=jadugar&u_p=jester&e6e51=e7f93&e91a5=1d985|POST|dhd.txt|0
+http://penzias:wilson@www.bubblegirls.com/login/login.php|66.31.242.241:2301||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=penzias&u_p=wilson&c4310=bb8b2&9cb4b=21375&1e09a=be380|POST|dhd.txt|0
+http://piton:femur@www.bubblegirls.com/login/login.php|200.122.135.240:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=piton&u_p=femur&43d5d=5d2a8&9959a=2a830|POST|dhd.txt|0
+http://sssosa:mohammed@www.bubblegirls.com/login/login.php|64.246.18.25:8888||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=sssosa&u_p=mohammed&e6e51=e7f93&e91a5=1d985|POST|dhd.txt|0
+http://gtjmail:bluesman@www.bubblegirls.com/login/login.php|12.46.106.179:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=gtjmail&u_p=bluesman&7fb1d=3d11b&80d1c=b6d3a&65aeb=61552|POST|dhd.txt|0
+http://dneg13:cwoods@www.bubblegirls.com/login/login.php|63.119.86.176:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=dneg13&u_p=cwoods&e6e51=e7f93&e91a5=1d985&6a789=b5a48|POST|dhd.txt|0
+http://roetzi:310771@www.bubblegirls.com/login/login.php|213.82.52.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=roetzi&u_p=310771&c4310=bb8b2&9cb4b=21375&1e09a=be380&c526f=a4a6b|POST|dhd.txt|0
+http://da4947:da5858@www.bubblegirls.com/login/login.php|68.62.196.145:2301||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=da4947&u_p=da5858&e6e51=e7f93&e91a5=1d985&6a789=b5a48&d7968=d8967&a0a01=75fef&8fad7=e405d|POST|dhd.txt|0
+http://Leadpipe:hardpipe@www.bubblegirls.com/login/login.php|200.54.66.182:8000||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=Leadpipe&u_p=hardpipe&c4310=bb8b2&9cb4b=21375&1e09a=be380&c526f=a4a6b&d8ee5=355f3|POST|dhd.txt|0
+http://scarface40:matrix40@www.bubblegirls.com/login/login.php|211.0.110.173:444||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=scarface40&u_p=matrix40&e6e51=e7f93&e91a5=1d985&6a789=b5a48&d7968=d8967&a0a01=75fef&8fad7=e405d&7f3ad=1c36b|POST|dhd.txt|0
+http://minty2000:mintsauc@www.bubblegirls.com/login/login.php|67.171.136.1:2301||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=minty2000&u_p=mintsauc&c4310=bb8b2&9cb4b=21375&1e09a=be380&c526f=a4a6b&d8ee5=355f3&5fe66=32d94|POST|dhd.txt|0
+http://wileyc:bender2k@www.bubblegirls.com/login/login.php|62.193.231.241:8080||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=wileyc&u_p=bender2k&dd204=5f71b&52911=4ffb8&67700=3eecf&c0d6d=35ef4&d49fe=32eff|POST|dhd.txt|0
+http://biggun65101:penguin@www.bubblegirls.com/login/login.php|62.161.214.25:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=biggun65101&u_p=penguin&43d5d=5d2a8&9959a=2a830&e45ae=db4f6|POST|dhd.txt|0
+http://Nepa1:Man1ra2@www.bubblegirls.com/login/login.php|12.15.58.168:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=Nepa1&u_p=Man1ra2&74cf8=9d9e8|POST|dhd.txt|0
+http://mpulle:Mikhail1@www.bubblegirls.com/login/login.php|12.46.106.179:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=mpulle&u_p=Mikhail1&4510d=6a59a|POST|dhd.txt|0
+http://drbsolutions:865991@www.bubblegirls.com/login/login.php|62.194.128.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=drbsolutions&u_p=865991&db3e0=cdcb8|POST|dhd.txt|0
+http://deadman74:terror@www.bubblegirls.com/login/login.php|66.31.242.241:2301||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=deadman74&u_p=terror&7bf42=90d07|POST|dhd.txt|0
+http://lorenzopir:gaellus@www.bubblegirls.com/login/login.php|200.122.135.240:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=lorenzopir&u_p=gaellus&93885=df1a8|POST|dhd.txt|0
+http://Eastwood:quinton@www.bubblegirls.com/login/login.php|63.119.86.176:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=Eastwood&u_p=quinton&7bf42=90d07&47f12=719b7|POST|dhd.txt|0
+http://Coldfire:freemars@www.bubblegirls.com/login/login.php|213.82.52.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=Coldfire&u_p=freemars&74cf8=9d9e8&74ec5=e98dc|POST|dhd.txt|0
+http://mchick:zappad@www.bubblegirls.com/login/login.php|64.246.18.25:8888||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=mchick&u_p=zappad&4510d=6a59a|POST|dhd.txt|0
+http://kenbob1:bobbo1@www.bubblegirls.com/login/login.php|68.62.196.145:2301||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=kenbob1&u_p=bobbo1&7bf42=90d07&47f12=719b7&278ef=b3693|POST|dhd.txt|0
+http://shikob:itchitch@www.bubblegirls.com/login/login.php|200.54.66.182:8000||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=shikob&u_p=itchitch&93885=df1a8&3dd80=c69be|POST|dhd.txt|0
+http://tcmtcm:hoopsdan@www.bubblegirls.com/login/login.php|211.0.110.173:444||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=tcmtcm&u_p=hoopsdan&74cf8=9d9e8&74ec5=e98dc&91ff6=58d62|POST|dhd.txt|0
+http://maxbogus:bonnie19@www.bubblegirls.com/login/login.php|62.193.231.241:8080||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=maxbogus&u_p=bonnie19&7bf42=90d07&47f12=719b7&278ef=b3693&c85b9=4d9c3|POST|dhd.txt|0
+http://LooseCannon:Warlord@www.bubblegirls.com/login/login.php|67.171.136.1:2301||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=LooseCannon&u_p=Warlord&4510d=6a59a&e9857=572a1|POST|dhd.txt|0
+http://peterfc:4528chat@www.bubblegirls.com/login/login.php|63.99.211.212:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=peterfc&u_p=4528chat&74cf8=9d9e8&74ec5=e98dc&91ff6=58d62&c3bb4=b6d22|POST|dhd.txt|0
+http://yvonic:dukuduku@www.bubblegirls.com/login/login.php|216.218.254.94:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=yvonic&u_p=dukuduku&4510d=6a59a&e9857=572a1&30ab6=8c493|POST|dhd.txt|0
+http://eoind:guess@www.bubblegirls.com/login/login.php|12.15.58.168:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=eoind&u_p=guess&ae743=6915f|POST|dhd.txt|0
+http://botafogo:germano@www.bubblegirls.com/login/login.php|200.122.135.240:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=botafogo&u_p=germano&e2a75=526af|POST|dhd.txt|0
+http://enigma654:vision5@www.bubblegirls.com/login/login.php|12.46.106.179:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=enigma654&u_p=vision5&7d826=e96d0|POST|dhd.txt|0
+http://WRIKER32:NCC1701D@www.bubblegirls.com/login/login.php|63.119.86.176:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=WRIKER32&u_p=NCC1701D&7d826=e96d0&63fda=c000f|POST|dhd.txt|0
+http://gtjmail:bluesman@www.onlytease.com/members/|62.193.231.243:8080||invalid username or password||||GET|dhd.txt|0
+http://weekessg:leo123@www.onlytease.com/members/|202.83.175.98:8080||invalid username or password||||GET|dhd.txt|0
+http://penzias:wilson@www.onlytease.com/members/|211.40.153.4:8081||invalid username or password||||GET|dhd.txt|0
+http://sssosa:mohammed@www.onlytease.com/members/|203.150.33.92:8080||invalid username or password||||GET|dhd.txt|0
+http://biggun65101:penguin@www.onlytease.com/members/|213.82.52.227:80||invalid username or password||||GET|dhd.txt|0
+http://piton:femur@www.onlytease.com/members/|63.70.3.56:8080||invalid username or password||||GET|dhd.txt|0
+http://wileyc:bender2k@www.onlytease.com/members/|148.244.150.57:80||invalid username or password||||GET|dhd.txt|0
+http://dneg13:cwoods@www.onlytease.com/members/|158.108.4.249:3128||invalid username or password||||GET|dhd.txt|0
+http://volvov:acr4040@www.onlytease.com/members/|211.0.110.173:444||invalid username or password||||GET|dhd.txt|0
+http://Leadpipe:hardpipe@www.onlytease.com/members/|64.246.18.25:8888||invalid username or password||||GET|dhd.txt|0
+http://da4947:da5858@www.onlytease.com/members/|138.100.76.92:80||invalid username or password||||GET|dhd.txt|0
+http://scarface40:matrix40@www.onlytease.com/members/|216.80.33.243:3382||invalid username or password||||GET|dhd.txt|0
+http://minty2000:mintsauc@www.onlytease.com/members/|64.28.214.103:1080||invalid username or password||||GET|dhd.txt|0
+http://Nightowlcspc:vfields@www.onlytease.com/members/|218.190.79.137:80||invalid username or password||||GET|dhd.txt|0
+http://eddiemoy:js58tbz2@www.onlytease.com/members/|200.54.66.182:8000||invalid username or password||||GET|dhd.txt|0
+http://roetzi:310771@www.onlytease.com/members/|211.98.24.6:8080||invalid username or password||||GET|dhd.txt|0
+http://jadugar:jester@www.bubblegirls.com/login/login.php|63.70.3.56:8080||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=jadugar&u_p=jester&3681e=1dc77|POST|dhd.txt|0
+http://wileyc:bender2k@www.bubblegirls.com/login/login.php|158.108.4.249:3128||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=wileyc&u_p=bender2k&8838d=e5464|POST|dhd.txt|0
+http://penzias:wilson@www.bubblegirls.com/login/login.php|213.82.52.227:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=penzias&u_p=wilson&92367=1fcc3|POST|dhd.txt|0
+http://gtjmail:bluesman@www.bubblegirls.com/login/login.php|203.150.33.92:8080||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=gtjmail&u_p=bluesman&c543e=a2d9b|POST|dhd.txt|0
+http://weekessg:leo123@www.bubblegirls.com/login/login.php|138.100.76.92:80||invalid username or password||http://www.bubblegirls.com/login/login.php|u_n=weekessg&u_p=leo123&e1632=912f7&e1632=912f7&ce667=95a25|POST|dhd.txt|0
+http://penzias:wilson@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|211.0.110.173:444||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=penzias&password=wilson&submitLogin=Log|POST|dhd.txt|0
+http://wileyc:bender2k@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=wileyc&password=bender2k&submitLogin=Log|POST|dhd.txt|0
+http://sssosa:mohammed@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|200.122.135.240:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=sssosa&password=mohammed&submitLogin=Log&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://roetzi:310771@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|141.108.18.27:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=roetzi&password=310771&submitLogin=Log&submitLogin=Log&submitLogin=Log&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://weekessg:leo123@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=weekessg&password=leo123&submitLogin=Log&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://biggun65101:penguin@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|66.186.20.109:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=biggun65101&password=penguin&submitLogin=Log&submitLogin=Log&submitLogin=Log&submitLogin=Log&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://gtjmail:bluesman@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|200.66.99.254:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=gtjmail&password=bluesman&submitLogin=Log|POST|dhd.txt|0
+http://volvov:acr4040@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|211.0.110.173:444||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=volvov&password=acr4040&submitLogin=Log|POST|dhd.txt|0
+http://da4947:da5858@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=da4947&password=da5858&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://Leadpipe:hardpipe@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|200.122.135.240:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|username=Leadpipe&password=hardpipe&submitLogin=Log&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://scarface40:matrix40@www.meninpain.com/members/login.php?ref=%2Fmembers%2F|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2F|verificationCodeActual=scarface40&password=matrix40&submitLogin=Log&submitLogin=Log&submitLogin=Log&logId=&exception=&ref=&verificationCodeExpected=PkX8lzcqCH5mJzrTDIN5GPuxUUj9y4XuiJHlNr3lE6bVBlhwfc+kv5O08hrbZ6vS3G8RlR5hboJGgddaU4Iwzw==&submitSupportForm=Submit|POST|dhd.txt|0
+http://weekessg:leo123@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=weekessg&password=leo123&submitLogin=Log|POST|dhd.txt|0
+http://jadugar:jester@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|200.122.135.240:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=jadugar&password=jester&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://gtjmail:bluesman@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|verificationCodeActual=gtjmail&password=bluesman&submitLogin=Log&submitLogin=Log&logId=&exception=&ref=&verificationCodeExpected=IQQyIB/0bG2acUf4ZD4IXf4jBB5I6nYSc4o9ChCoDgEZwGKJu5L651VqxjDNb2Otkj0a0yPQgWlLdFcAgP4IOQ==&submitSupportForm=Submit|POST|dhd.txt|0
+http://weekessg:leo123@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=weekessg&password=leo123&submitLogin=Log|POST|dhd.txt|0
+http://jadugar:jester@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=jadugar&password=jester&submitLogin=Log|POST|dhd.txt|0
+http://gtjmail:bluesman@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=gtjmail&password=bluesman&submitLogin=Log|POST|dhd.txt|0
+http://gtjmail:bluesman@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=gtjmail&password=bluesman&submitLogin=Log|POST|dhd.txt|0
+http://gtjmail:bluesman@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=gtjmail&password=bluesman&submitLogin=Log|POST|dhd.txt|0
+http://penzias:wilson@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|verificationCodeActual=penzias&password=wilson&submitLogin=Log&logId=&exception=&ref=&verificationCodeExpected=NYELYD/TQkwJmB15/P7ZxuilPjGbm0tkq7RK+4c6MNMXeJ4Rv6e2hMKF9kUx0n6TP5A8J/HOmgkdC0c+yBqXjg==&submitSupportForm=Submit|POST|dhd.txt|0
+http://wileyc:bender2k@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|66.186.20.109:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=wileyc&password=bender2k&submitLogin=Log&logId=&exception=&ref=&verificationCodeExpected=NYELYD/TQkwJmB15/P7ZxuilPjGbm0tkq7RK+4c6MNMXeJ4Rv6e2hMKF9kUx0n6TP5A8J/HOmgkdC0c+yBqXjg==&submitSupportForm=Submit&submitLogin=Log|POST|dhd.txt|0
+http://piton:femur@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|63.119.86.176:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=piton&password=femur&submitLogin=Log&logId=&exception=&ref=&verificationCodeExpected=NYELYD/TQkwJmB15/P7ZxuilPjGbm0tkq7RK+4c6MNMXeJ4Rv6e2hMKF9kUx0n6TP5A8J/HOmgkdC0c+yBqXjg==&submitSupportForm=Submit&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://sssosa:mohammed@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=sssosa&password=mohammed&submitLogin=Log|POST|dhd.txt|0
+http://roetzi:310771@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|verificationCodeActual=roetzi&password=310771&submitLogin=Log&logId=&exception=&ref=&verificationCodeExpected=AE1/bD2YH9ct95QPyNeiHkoB41QpwsBXLZSVl37sS5IDzCXT3mgt3h3X6e3Vx4XwX+i8RpBks6kTi4TE679qcQ==&submitSupportForm=Submit|POST|dhd.txt|0
+http://dneg13:cwoods@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|verificationCodeActual=dneg13&password=cwoods&submitLogin=Log&logId=&exception=&ref=&verificationCodeExpected=DF80D4D7A0u8mS8ycgUKq24+Nivlk1Zh9untWMOlA/tRFCj8+hnQjkAP8IFuXidGmSIQMrUMBaax2UwUAp1H1A==&submitSupportForm=Submit|POST|dhd.txt|0
+http://volvov:acr4040@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|verificationCodeActual=volvov&logId=&exception=&ref=&verificationCodeExpected=wuj3jl99KoDKpYL2leZewdx3r/DHLHWuXaXIMl+dcDP5xW4xO/9AtkCGDey4onph/Rp3NPQtbaYW/KHL40sJIg==&submitSupportForm=Submit|POST|dhd.txt|0
+http://eddiemoy:js58tbz2@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|62.193.231.241:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|verificationCodeActual=eddiemoy&password=js58tbz2&submitLogin=Log&submitLogin=Log&logId=&exception=&ref=/members/betaRedirect.php&verificationCodeExpected=3V68wk9/Wfitsu9ztI5hiVRxFnpBIVbDs3aMMAPVhxrENuqZH5uu0+hQA1nAL+Ix2ZUJr+MExvV3zm5+I/ySiQ==&submitSupportForm=Submit|POST|dhd.txt|0
+http://Nepa1:Man1ra2@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|207.248.240.118:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=Nepa1&password=Man1ra2&submitLogin=Log&submitLogin=Log&logId=&exception=&ref=/members/betaRedirect.php&verificationCodeExpected=3V68wk9/Wfitsu9ztI5hiVRxFnpBIVbDs3aMMAPVhxrENuqZH5uu0+hQA1nAL+Ix2ZUJr+MExvV3zm5+I/ySiQ==&submitSupportForm=Submit&submitLogin=Log|POST|dhd.txt|0
+http://drbsolutions:865991@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|65.165.84.11:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=drbsolutions&password=865991&submitLogin=Log&submitLogin=Log&logId=&exception=&ref=/members/betaRedirect.php&verificationCodeExpected=3V68wk9/Wfitsu9ztI5hiVRxFnpBIVbDs3aMMAPVhxrENuqZH5uu0+hQA1nAL+Ix2ZUJr+MExvV3zm5+I/ySiQ==&submitSupportForm=Submit&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://ceorichardh:dursban5@www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|212.185.164.175:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=ceorichardh&password=dursban5&logId=&exception=&ref=&verificationCodeExpected=wuj3jl99KoDKpYL2leZewdx3r/DHLHWuXaXIMl+dcDP5xW4xO/9AtkCGDey4onph/Rp3NPQtbaYW/KHL40sJIg==&submitSupportForm=Submit&submitLogin=Log|POST|dhd.txt|0
+http://gtjmail:bluesman@www.meninpain.com/members/betaRedirect.php|63.119.86.176:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=gtjmail&password=bluesman&submitLogin=Log|POST|dhd.txt|0
+http://penzias:wilson@www.meninpain.com/members/betaRedirect.php|138.100.76.92:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=penzias&password=wilson&submitLogin=Log|POST|dhd.txt|0
+http://weekessg:leo123@www.meninpain.com/members/betaRedirect.php|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=weekessg&password=leo123&submitLogin=Log|POST|dhd.txt|0
+http://jadugar:jester@www.meninpain.com/members/betaRedirect.php|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|verificationCodeActual=jadugar&logId=&exception=&ref=&verificationCodeExpected=QBHQ8KdAGpVugUcSfbT0Q0TRqdwrj9JOqtUu5uqWxE8l5yTOFNkTALG0sb4JSX//an61Rn5Y8KbtGz91jqxfXQ==&submitSupportForm=Submit|POST|dhd.txt|0
+http://piton:femur@www.meninpain.com/members/betaRedirect.php|62.193.231.241:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|verificationCodeActual=piton&password=femur&submitLogin=Log&logId=&exception=&ref=/members/betaRedirect.php&verificationCodeExpected=uvCDxhcq48CZFsipS6J5aFZjfDuiy2Whm5bYyCViqfMErkvQ9LC4yBg9DCkn60Q993GvDK7yYF3ST7rljs2cPg==&submitSupportForm=Submit|POST|dhd.txt|0
+http://roetzi:310771@www.meninpain.com/members/betaRedirect.php|207.248.240.118:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=roetzi&password=310771&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://da4947:da5858@www.meninpain.com/members/betaRedirect.php|63.119.86.176:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=da4947&password=da5858&submitLogin=Log|POST|dhd.txt|0
+http://Leadpipe:hardpipe@www.meninpain.com/members/betaRedirect.php|138.100.76.92:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=Leadpipe&password=hardpipe&submitLogin=Log|POST|dhd.txt|0
+http://minty2000:mintsauc@www.meninpain.com/members/betaRedirect.php|207.248.240.118:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=minty2000&password=mintsauc&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://scarface40:matrix40@www.meninpain.com/members/betaRedirect.php|62.193.231.241:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|verificationCodeActual=scarface40&logId=&exception=&ref=/members/betaRedirect.php&verificationCodeExpected=Ey7XtUlefMJLju+sCv3XPN4Fsv2RAdpTn2a5ebsvTlxbWvqoq55oFLleNJvYBtJxoBgYtmuO0tcnzgBE/CIvEA==&submitSupportForm=Submit|POST|dhd.txt|0
+http://volvov:acr4040@www.meninpain.com/members/betaRedirect.php|211.38.141.226:2301||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|verificationCodeActual=volvov&logId=&exception=&ref=&verificationCodeExpected=B2pPG4O21OWRZgKo6YGU06QaxtXY8zQz37xSbYg09OtNA9O/g1KPWJEh4hrWvPKUxmS6EmL9hhIC3U/DCNbRQA==&submitSupportForm=Submit|POST|dhd.txt|0
+http://deadman74:terror@www.meninpain.com/members/betaRedirect.php|207.248.240.118:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=deadman74&password=terror&submitLogin=Log|POST|dhd.txt|0
+http://Nepa1:Man1ra2@www.meninpain.com/members/betaRedirect.php|62.193.231.241:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|verificationCodeActual=Nepa1&logId=&exception=&ref=/members/betaRedirect.php&verificationCodeExpected=+0wda3dD5+BzvyBTdD4iJ0/+BwPw29usyQ4TPnmtlY85WC2lgBdl73I+ST6k9iYyJvPiL8akN/ppA8Zdb1mZ/A==&submitSupportForm=Submit|POST|dhd.txt|0
+http://mchick:zappad@www.meninpain.com/members/betaRedirect.php|218.190.79.137:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=mchick&password=zappad&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://mpulle:Mikhail1@www.meninpain.com/members/betaRedirect.php|63.70.3.56:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php||POST|dhd.txt|0
+http://mpulle:Mikhail1@www.meninpain.com/members/betaRedirect.php|63.70.3.56:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php||POST|dhd.txt|0
+http://deadman74:terror@www.meninpain.com/members/betaRedirect.php|207.248.240.118:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=deadman74&password=terror&submitLogin=Log|POST|dhd.txt|0
+http://Coldfire:freemars@www.meninpain.com/members/betaRedirect.php|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=Coldfire&password=freemars&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://Eastwood:quinton@www.meninpain.com/members/betaRedirect.php|158.108.4.249:3128||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=Eastwood&password=quinton&submitLogin=Log|POST|dhd.txt|0
+http://shikob:itchitch@www.meninpain.com/members/betaRedirect.php|208.187.165.105:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/betaRedirect.php|username=shikob&password=itchitch&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://norbert39:pizza39@www.meninpain.com/members/betaRedirect.php|62.193.231.241:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|verificationCodeActual=norbert39&password=pizza39&submitLogin=Log&logId=&exception=&ref=/members/betaRedirect.php&verificationCodeExpected=RuMzNTfDMXoSOEsFhwHfb1OtjxYv69fidXECS59WCxATVPPZrqIuAX7QIvxPmkTIRsnC1OFfCjX7b5vLJIBEYg==&submitSupportForm=Submit|POST|dhd.txt|0
+http://maxbogus:bonnie19@www.meninpain.com/members/betaRedirect.php|202.29.136.140:80||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|username=maxbogus&password=bonnie19&submitLogin=Log&submitLogin=Log|POST|dhd.txt|0
+http://esw71073:st450223@www.meninpain.com/members/betaRedirect.php|62.193.231.241:8080||cAsE sEnSiTiVe||http://www.meninpain.com/members/login.php?ref=%2Fmembers%2FbetaRedirect.php|verificationCodeActual=esw71073&password=st450223&submitLogin=Log&logId=&exception=&ref=/members/betaRedirect.php&verificationCodeExpected=v2/k3/XSHl3J5ANcKEYLXxUwE27x9nSi5XkLjKwVpd5jW3LmG6NwpdeOiSlHn7Cq1auD9SLgWg9ZbdFVnOQynQ==&submitSupportForm=Submit|POST|dhd.txt|0http://eddiemoy:js58tbz2@angelsofporn.net/members/|148.244.150.58:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=eddiemoy&pass"=js58tbz2|POST|dhd.txt|0
+http://Nightowlcspc:vfields@angelsofporn.net/members/|207.248.240.119:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Nightowlcspc&pass"=vfields|POST|dhd.txt|0
+http://ceorichardh:dursban5@angelsofporn.net/members/|211.0.110.173:444||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=ceorichardh&pass"=dursban5|POST|dhd.txt|0
+http://deadman74:terror@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=deadman74&pass"=terror|POST|dhd.txt|0
+http://drbsolutions:865991@angelsofporn.net/members/|203.131.71.114:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=drbsolutions&pass"=865991|POST|dhd.txt|0
+http://minty2000:mintsauc@angelsofporn.net/members/|211.40.153.4:8081||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=minty2000&pass"=mintsauc|POST|dhd.txt|0
+http://mchick:zappad@angelsofporn.net/members/|62.193.231.241:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=mchick&pass"=zappad|POST|dhd.txt|0
+http://Coldfire:freemars@angelsofporn.net/members/|207.248.240.118:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Coldfire&pass"=freemars|POST|dhd.txt|0
+http://mpulle:Mikhail1@angelsofporn.net/members/|138.100.76.92:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=mpulle&pass"=Mikhail1|POST|dhd.txt|0
+http://lorenzopir:gaellus@angelsofporn.net/members/|202.29.136.140:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=lorenzopir&pass"=gaellus|POST|dhd.txt|0
+http://Vegas196:fubar@angelsofporn.net/members/|61.138.10.125:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Vegas196&pass"=fubar|POST|dhd.txt|0
+http://Eastwood:quinton@angelsofporn.net/members/|203.150.33.92:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Eastwood&pass"=quinton|POST|dhd.txt|0
+http://penzias:wilson@angelsofporn.net/members/|148.244.150.58:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=penzias&pass"=wilson|POST|dhd.txt|0
+http://jadugar:jester@angelsofporn.net/members/|207.248.240.119:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=jadugar&pass"=jester|POST|dhd.txt|0
+http://gtjmail:bluesman@angelsofporn.net/members/|211.0.110.173:444||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=gtjmail&pass"=bluesman|POST|dhd.txt|0
+http://wileyc:bender2k@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=wileyc&pass"=bender2k|POST|dhd.txt|0
+http://sssosa:mohammed@angelsofporn.net/members/|138.100.76.92:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=sssosa&pass"=mohammed|POST|dhd.txt|0
+http://dneg13:cwoods@angelsofporn.net/members/|148.244.150.58:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=dneg13&pass"=cwoods|POST|dhd.txt|0
+http://roetzi:310771@angelsofporn.net/members/|207.248.240.119:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=roetzi&pass"=310771|POST|dhd.txt|0
+http://volvov:acr4040@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=volvov&pass"=acr4040|POST|dhd.txt|0
+http://biggun65101:penguin@angelsofporn.net/members/|211.0.110.173:444||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=biggun65101&pass"=penguin|POST|dhd.txt|0
+http://scarface40:matrix40@angelsofporn.net/members/|207.248.240.118:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=scarface40&pass"=matrix40|POST|dhd.txt|0
+http://Leadpipe:hardpipe@angelsofporn.net/members/|62.193.231.241:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Leadpipe&pass"=hardpipe|POST|dhd.txt|0
+http://minty2000:mintsauc@angelsofporn.net/members/|61.138.10.125:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=minty2000&pass"=mintsauc|POST|dhd.txt|0
+http://da4947:da5858@angelsofporn.net/members/|138.100.76.92:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=da4947&pass"=da5858|POST|dhd.txt|0
+http://Nightowlcspc:vfields@angelsofporn.net/members/|203.150.33.92:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Nightowlcspc&pass"=vfields|POST|dhd.txt|0
+http://Nepa1:Man1ra2@angelsofporn.net/members/|207.248.240.119:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Nepa1&pass"=Man1ra2|POST|dhd.txt|0
+http://mpulle:Mikhail1@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=mpulle&pass"=Mikhail1|POST|dhd.txt|0
+http://deadman74:terror@angelsofporn.net/members/|211.0.110.173:444||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=deadman74&pass"=terror|POST|dhd.txt|0
+http://mchick:zappad@angelsofporn.net/members/|62.193.231.241:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=mchick&pass"=zappad|POST|dhd.txt|0
+http://Coldfire:freemars@angelsofporn.net/members/|207.248.240.118:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Coldfire&pass"=freemars|POST|dhd.txt|0
+http://drbsolutions:865991@angelsofporn.net/members/|148.244.150.58:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=drbsolutions&pass"=865991|POST|dhd.txt|0
+http://lorenzopir:gaellus@angelsofporn.net/members/|138.100.76.92:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=lorenzopir&pass"=gaellus|POST|dhd.txt|0
+http://kenbob1:bobbo1@angelsofporn.net/members/|148.244.150.58:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=kenbob1&pass"=bobbo1|POST|dhd.txt|0
+http://tcmtcm:hoopsdan@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=tcmtcm&pass"=hoopsdan|POST|dhd.txt|0
+http://shikob:itchitch@angelsofporn.net/members/|211.0.110.173:444||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=shikob&pass"=itchitch|POST|dhd.txt|0
+http://LooseCannon:Warlord@angelsofporn.net/members/|138.100.76.92:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=LooseCannon&pass"=Warlord|POST|dhd.txt|0
+http://bigsnail:coldfall@angelsofporn.net/members/|207.248.240.118:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=bigsnail&pass"=coldfall|POST|dhd.txt|0
+http://muzikman:opus13@angelsofporn.net/members/|211.0.110.173:444||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=muzikman&pass"=opus13|POST|dhd.txt|0
+http://klipschman:trooper2@angelsofporn.net/members/|158.108.4.249:3128||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=klipschman&pass"=trooper2|POST|dhd.txt|0
+http://eoind:guess@angelsofporn.net/members/|211.98.24.6:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=eoind&pass"=guess|POST|dhd.txt|0
+http://paaron96:ranger35@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=paaron96&pass"=ranger35|POST|dhd.txt|0
+http://enigma654:vision5@angelsofporn.net/members/|207.248.240.119:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=enigma654&pass=vision5|POST|dhd.txt|0
+http://botafogo:germano@angelsofporn.net/members/|158.108.4.249:3128||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=botafogo&pass=germano|POST|dhd.txt|0
+http://brianandchris:scooter1@angelsofporn.net/members/|211.98.24.6:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=brianandchris&pass=scooter1|POST|dhd.txt|0
+http://esw71073:st450223@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=esw71073&pass=st450223|POST|dhd.txt|0
+http://WRIKER32:NCC1701D@angelsofporn.net/members/|218.28.135.196:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=WRIKER32&pass=NCC1701D|POST|dhd.txt|0
+http://battleguard:superman@angelsofporn.net/members/|211.0.110.173:444||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=battleguard&pass=superman|POST|dhd.txt|0
+http://jonpaw:permss@angelsofporn.net/members/|158.108.4.249:3128||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=jonpaw&pass=permss|POST|dhd.txt|0
+http://galvin:clifford@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=galvin&pass=clifford|POST|dhd.txt|0
+http://spcombs:A11ison@angelsofporn.net/members/|158.108.4.249:3128||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=spcombs&pass=A11ison|POST|dhd.txt|0
+http://PapsPLC:serena@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=PapsPLC&pass=serena|POST|dhd.txt|0
+http://weekessg:leo123@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=weekessg&pass=leo123|POST|dhd.txt|0
+http://jadugar:jester@angelsofporn.net/members/|203.131.71.114:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=jadugar&pass=jester|POST|dhd.txt|0
+http://gtjmail:bluesman@angelsofporn.net/members/|148.244.150.58:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=gtjmail&pass=bluesman|POST|dhd.txt|0
+http://penzias:wilson@angelsofporn.net/members/|62.193.231.241:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=penzias&pass=wilson|POST|dhd.txt|0
+http://piton:femur@angelsofporn.net/members/|62.193.231.241:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=piton&pass=femur|POST|dhd.txt|0
+http://sssosa:mohammed@angelsofporn.net/members/|207.248.240.118:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=sssosa&pass=mohammed|POST|dhd.txt|0
+http://roetzi:310771@angelsofporn.net/members/|207.248.240.118:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=roetzi&pass=310771|POST|dhd.txt|0
+http://biggun65101:penguin@angelsofporn.net/members/|62.161.214.25:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=biggun65101&pass=penguin|POST|dhd.txt|0
+http://volvov:acr4040@angelsofporn.net/members/|207.248.240.118:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=volvov&pass=acr4040|POST|dhd.txt|0
+http://da4947:da5858@angelsofporn.net/members/|209.88.12.61:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=da4947&pass=da5858|POST|dhd.txt|0
+http://Leadpipe:hardpipe@angelsofporn.net/members/|62.161.214.25:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Leadpipe&pass=hardpipe|POST|dhd.txt|0
+http://scarface40:matrix40@angelsofporn.net/members/|64.28.214.103:1080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=scarface40&pass=matrix40|POST|dhd.txt|0
+http://minty2000:mintsauc@angelsofporn.net/members/|207.248.240.119:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=minty2000&pass=mintsauc|POST|dhd.txt|0
+http://ceorichardh:dursban5@angelsofporn.net/members/|148.244.150.58:80||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=ceorichardh&pass=dursban5|POST|dhd.txt|0
+http://eddiemoy:js58tbz2@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=eddiemoy&pass=js58tbz2|POST|dhd.txt|0
+http://Nepa1:Man1ra2@angelsofporn.net/members/|208.187.165.105:8080||cAsE sEnSiTiVe||http://angelsofporn.net/members/index.html?&action=login|uname=Nepa1&pass=Man1ra2|POST|dhd.txt|0
+http://DarkAngelxxx:kristin@www.google.com|158.108.4.249:3128||ifiufh||||GET|dhd.txt|0
+http://joedirt037:omega037@www.google.com|208.187.165.105:8080||ifiufh||||GET|dhd.txt|0
+http://vmabini:123456@members2.wifeysworld.com/|69.242.12.128:2301||||||GET|output.txt|0
+http://zeke2020:megan1@members2.wifeysworld.com/|69.242.12.128:2301||||||GET|output.txt|0
+http://charlatan:cricket@www.shivaglamour.net/englishversion/?pid=13/|68.60.96.87:2301||Wrong username or password||http://www.shivaglamour.net/englishversion/?pid=13/|PHP_AUTH_USER=charlatan&PHP_AUTH_PW=cricket&PHPSESSID=b103789d0d205c1579dbce7ec50fd14a&login=Login&login=Login&login=Login|POST|output.txt|0
+http://doug20042345:hunter@www.shivaglamour.net/englishversion/?pid=13/|208.63.116.194:8080||Wrong username or password||http://www.shivaglamour.net/englishversion/?pid=13/|PHP_AUTH_USER=doug20042345&PHP_AUTH_PW=hunter&PHPSESSID=be54a2278e414e89a8a30b59ebe4dcff&login=Login&login=Login&login=Login&login=Login|POST|output.txt|0
+http://tram972:6821263@www.shivaglamour.net/englishversion/?pid=13/|68.52.155.221:2301||Wrong username or password||http://www.shivaglamour.net/englishversion/?pid=13/|PHP_AUTH_USER=tram972&PHP_AUTH_PW=6821263&PHPSESSID=75ca21588c0b2acc829dfe232a141fb5&login=Login&login=Login&login=Login|POST|output.txt|0
+http://Willy9745:Irisita@www.shivaglamour.net/englishversion/?pid=13/|166.114.30.40:8080||Wrong username or password||http://www.shivaglamour.net/englishversion/?pid=13/|PHP_AUTH_USER=Willy9745&PHP_AUTH_PW=Irisita&PHPSESSID=c3c819c98e932be3905f747dd4c32c98&login=Login&login=Login&login=Login&login=Login|POST|output.txt|0
+http://Willy9745:Irisita@www.shivaglamour.net/englishversion/?pid=13/|68.60.96.87:2301||Wrong username or password||http://www.shivaglamour.net/englishversion/?pid=13/|PHP_AUTH_USER=Willy9745&PHP_AUTH_PW=Irisita&PHPSESSID=07f46602397e061a3f362522b8a2de97&login=Login|POST|output.txt|0
+http://doug20042345:hunter@www.shivaglamour.net/englishversion/?pid=13/|68.52.155.221:2301||Wrong username or password||http://www.shivaglamour.net/englishversion/?pid=13/|PHP_AUTH_USER=doug20042345&PHP_AUTH_PW=hunter&PHPSESSID=7452ffa9bf375c1dab23d8078999148a&login=Login&login=Login&login=Login&login=Login|POST|output.txt|0
+http://brettsheats:kermit55@www.shivaglamour.net/englishversion/?pid=13/|128.250.217.137:2301||Wrong username or password||http://www.shivaglamour.net/englishversion/?pid=13/|PHP_AUTH_USER=brettsheats&PHP_AUTH_PW=kermit55&PHPSESSID=149db125513eab31f08a79b414f99669&login=Login&login=Login&login=Login&login=Login|POST|output.txt|0
+http://imbrokeman:momoney@www.shivaglamour.net/englishversion/?pid=13|64.246.18.25:8888||Wrong username or password;Don't forget to visit my other sites||http://www.shivaglamour.net/englishversion/?pid=13|PHP_AUTH_USER=imbrokeman&PHP_AUTH_PW=momoney&PHPSESSID=fce99b08adc7d06a708198c3cfb7ed86&login=Login&login=Login&login=Login&login=Login&login=Login&login=Login&login=Login&login=Login|POST|output.txt|0
+http://TYLER1:AUSTIN1@www.shivaglamour.net/englishversion/?pid=13|64.246.18.25:8888||Wrong username or password;Don't forget to visit my other sites||http://www.shivaglamour.net/englishversion/?pid=13|PHP_AUTH_USER=TYLER1&PHP_AUTH_PW=AUSTIN1&PHPSESSID=a6f04fcc8d341db115887da777bb31ca&login=Login&login=Login&login=Login&login=Login&login=Login&login=Login&login=Login|POST|output.txt|0

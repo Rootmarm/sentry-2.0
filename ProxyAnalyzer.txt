@@ -1,0 +1,35 @@
+The proxy analyzer works on levels.
+
+The top level, is considered a main engine, the rest are subengines.
+
+Top Levels include:
+
+External Analyzer
+Internal Analyzer
+KeyPhrase Checking (Define Source Keyphrase checkbox) **** You cannot use a Secondary Level with this
+Specific Analyzer ******* Only if this is the only one chosen.  If not, it is a secondary level.
+
+Secondary Levels include:
+
+Specific Analyzer
+
+Third Levels include:
+
+HTTPS Checking
+
+Here is how it works, you choose a top level engine, then a secondary engine (optional), and then a
+third level engine.
+
+Ex:
+
+External Analyzer -> Specific Analyzer -> HTTPS Checking
+
+The analyzer will perform all 3 operations on the selected proxies.
+
+You cannot combine keyphrases and an analyzer.
+
+You cannot combine specific analyzer and keyphrases.
+
+You cannot use HTTPS by itself, you need to include it with a secondary engine or primary engine.
+
+You can use the Internal ProxyJudge and a Specific Site Engine (To check 401 against a 3rd party site, not yourself).
