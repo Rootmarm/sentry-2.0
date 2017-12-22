@@ -10,7 +10,10 @@ This would be the precursor to the Sentry MBA series of brute force/credential s
 The following blog posts should provide a quick introduction:
 
 https://blog.shapesecurity.com/tag/sentry-mba/
+
 https://spycloud.com/tools-criminals-using-crack-website/
+
+
 
 **How is this tool used?**
 ====================
